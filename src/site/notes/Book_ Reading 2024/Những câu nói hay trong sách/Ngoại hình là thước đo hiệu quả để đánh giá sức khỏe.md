@@ -1,0 +1,6 @@
+---
+{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Ngoại hình là thước đo hiệu quả để đánh giá sức khỏe/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:47.002+07:00","updated":"2023-12-21T17:56:41.141+07:00"}
+---
+
+Dù đang ở độ tuổi nào thì việc trước tiên chúng ta cần làm ngay để  giữ gìn chất lượng cuộc sống luôn tươi trẻ và khỏe mạnh cũng là thay  đối chế độ ăn bằng cách từ bỏ thói quen ăn no. Thông thường, khi nhắc  đến việc thay đổi thói quen ăn uống, chúng ta thường có suy nghĩ rằng đó  là ăn kiêng để giảm cân, thay đổi vóc dáng, nhưng chế độ ăn "Mỗi ngày  một bữa" tôi đưa ra ở đây không những giúp chúng ta có vòng eo thon  gọn, thân hình thanh thoát mà còn giữ cho da dẻ căng mịn và tràn đầy sức  sống.  
+Vì sao tôi đề cập đến ngoại hình ở đây trong khi chúng ta đang bàn  về vấn đề sức khỏe? Đơn giản vì ngoại hình là thước đo hiệu quả để  đánh giá sức khỏe. Không mấy ai tin khi tôi nói tôi đã 56 tuổi vì mọi  người gặp tôi thường nói tôi chỉ trạc 20 tuổi.
