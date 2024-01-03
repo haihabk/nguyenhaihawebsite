@@ -1,8 +1,10 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/KHOAHOCOBSIDIAN.COM/OBSIDIAN- Nguồn tham khảo thêm/Dăm ba cái phương pháp sắp xếp trong Second brain/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-29T10:24:17.662+07:00","updated":"2023-12-29T10:25:05.069+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/KHOAHOCOBSIDIAN.COM/OBSIDIAN- Nguồn tham khảo thêm/Dăm ba cái phương pháp sắp xếp trong Second brain/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-29T10:24:17.662+07:00","updated":"2024-01-03T15:09:50.994+07:00"}
 ---
 
 #### **author :: [[Đỗ Thu Trang\|Đỗ Thu Trang]]
+<!--ID: 1704269388866-->
+
 url::  https://www.facebook.com/groups/594306492570157/search/?q=trang
  [[Homepage\|Quay Lại👈]]
 **
