@@ -1,5 +1,5 @@
 ---
-{"author":"Thảo nguyễn","Link":"https://www.facebook.com/groups/phunuphattrienbanthan/posts/1542899503192664/","dg-publish":true,"permalink":"/People/Thay đổi tư duy- Thay đổi cuộc đời/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:47.737+07:00","updated":"2023-12-27T13:31:48.010+07:00"}
+{"author":"Thảo nguyễn","Link":"https://www.facebook.com/groups/phunuphattrienbanthan/posts/1542899503192664/","dg-publish":true,"permalink":"/People/Thay đổi tư duy- Thay đổi cuộc đời/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:47.737+07:00","updated":"2024-01-03T15:09:50.986+07:00"}
 ---
 
 author:: [[Attachment_NHH/System/Author/Thảo nguyễn\|Thảo nguyễn]]
@@ -46,5 +46,9 @@ Nếu giờ bạn đang quá chán với cuộc sống của mình. Nếu bạn 
 [#growthmindset](https://www.facebook.com/hashtag/growthmindset?__eep__=6&__cft__[0]=AZULwWxZB_DftyLMDi0-yZaQ9xfLE3-tSf4aFyzgv-RvhVDwhrcmV-33ELEwNdYg9NaQe6xmysohUqIM89BgLIVar4ZFFejFyQeJ4GTBh5rns45in8sUmVUPizY8i6pKufHefy7uIgQ3Z8N-5Vj2hNJLMFgwfI6MuRhFzkWsTmUg5PavPtxe0CMrpMoFhml6TwA&__tn__=*NK-R) [#growthmindset_ThuyTulip](https://www.facebook.com/hashtag/growthmindset_thuytulip?__eep__=6&__cft__[0]=AZULwWxZB_DftyLMDi0-yZaQ9xfLE3-tSf4aFyzgv-RvhVDwhrcmV-33ELEwNdYg9NaQe6xmysohUqIM89BgLIVar4ZFFejFyQeJ4GTBh5rns45in8sUmVUPizY8i6pKufHefy7uIgQ3Z8N-5Vj2hNJLMFgwfI6MuRhFzkWsTmUg5PavPtxe0CMrpMoFhml6TwA&__tn__=*NK-R) [#tư_duy](https://www.facebook.com/hashtag/t%C6%B0_duy?__eep__=6&__cft__[0]=AZULwWxZB_DftyLMDi0-yZaQ9xfLE3-tSf4aFyzgv-RvhVDwhrcmV-33ELEwNdYg9NaQe6xmysohUqIM89BgLIVar4ZFFejFyQeJ4GTBh5rns45in8sUmVUPizY8i6pKufHefy7uIgQ3Z8N-5Vj2hNJLMFgwfI6MuRhFzkWsTmUg5PavPtxe0CMrpMoFhml6TwA&__tn__=*NK-R) [#phát_triển_tư_duy_cùng_ThủyTulip](https://www.facebook.com/hashtag/ph%C3%A1t_tri%E1%BB%83n_t%C6%B0_duy_c%C3%B9ng_th%E1%BB%A7ytulip?__eep__=6&__cft__[0]=AZULwWxZB_DftyLMDi0-yZaQ9xfLE3-tSf4aFyzgv-RvhVDwhrcmV-33ELEwNdYg9NaQe6xmysohUqIM89BgLIVar4ZFFejFyQeJ4GTBh5rns45in8sUmVUPizY8i6pKufHefy7uIgQ3Z8N-5Vj2hNJLMFgwfI6MuRhFzkWsTmUg5PavPtxe0CMrpMoFhml6TwA&__tn__=*NK-R)
 
 Author:: Nguyễn Thảo
+<!--ID: 1704269388830-->
+
 Link:: https://www.facebook.com/groups/phunuphattrienbanthan/posts/1542899503192664/
+<!--ID: 1704269388837-->
+
 
