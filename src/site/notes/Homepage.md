@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-pinned":true,"cssclasses":["cards-1-1","cards"],"permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.449+07:00","updated":"2024-01-04T12:26:25.076+07:00"}
+{"dg-home":true,"dg-publish":true,"dg-pinned":true,"cssclasses":["cards-1-1","cards"],"permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.449+07:00","updated":"2024-01-04T12:32:09.188+07:00"}
 ---
 
 Đây là nơi mình sẽ học hỏi và chia sẻ. 
@@ -17,17 +17,13 @@
 
 { .block-language-dataview}
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
-
-
-
-</div></div>
-
-
+| 1 |  |  |
+|:---|:---|:---|
+| 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -36,8 +32,32 @@
 
 
 </div></div>
+ | 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
+
+
+
+| File                                                               | Tags |
+| ------------------------------------------------------------------ | ---- |
+| [[Anki/Reset bộ thẻ cũ để học lại\|Reset bộ thẻ cũ để học lại]] | \-   |
+
+{ .block-language-dataview}
+
+
+</div></div>
+ |  |
+|  
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+
+</div></div>
+| 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/attachment-nhh/moc/people/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -66,13 +86,4 @@
 
 
 </div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-
-</div></div>
+ |  |  
