@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"image":"https://images.unsplash.com/photo-1517732306149-e8f829eb588a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzfHxQRU9QTEV8ZW58MHwwfHx8MTcwNDMzOTI3Mnww&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/Attachment_NHH/MOC/PEOPLE/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-26T17:35:32.742+07:00","updated":"2024-01-04T10:34:44.779+07:00"}
+{"dg-publish":true,"image":"https://images.unsplash.com/photo-1517732306149-e8f829eb588a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzfHxQRU9QTEV8ZW58MHwwfHx8MTcwNDMzOTI3Mnww&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/Attachment_NHH/MOC/PEOPLE/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-26T17:35:32.742+07:00","updated":"2024-01-04T11:56:01.153+07:00"}
 ---
 
 
@@ -15,7 +15,10 @@
 | [[People/Tầm quan trọng của NHỊP ĐIỆU\|Tầm quan trọng của NHỊP ĐIỆU]]                                             | Duong Tran     |
 | [[People/ĐIỀU GÌ CẢN TRỞ BẠN TIẾN BỘ\|ĐIỀU GÌ CẢN TRỞ BẠN TIẾN BỘ]]                                               | Mai Uyên Hương |
 | [[People/Để trở thành người thuộc top 10%\|Để trở thành người thuộc top 10%]]                                     | \-             |
-| [[People/Phương Pháp học tiếng anh\|Phương Pháp học tiếng anh]]                                                   | \-             |
+| [[People/Phương Pháp học tiếng anh\|Phương Pháp học tiếng anh]]                                                   | Thuy tulip     |
 
 { .block-language-dataview}
+
+
+
 
