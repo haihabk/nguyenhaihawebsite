@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-pinned":true,"cssclasses":["cards-1-1","cards"],"permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.449+07:00","updated":"2024-01-04T12:10:47.560+07:00"}
+{"dg-home":true,"dg-publish":true,"dg-pinned":true,"cssclasses":["cards-1-1","cards"],"permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.449+07:00","updated":"2024-01-04T12:26:25.076+07:00"}
 ---
 
 Đây là nơi mình sẽ học hỏi và chia sẻ. 
@@ -16,3 +16,63 @@
 | ![\|300x300](https://images.unsplash.com/photo-1524525457897-bca9d803c895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxNHx8U1BBQ0UlMjBSRVBFVElUSU9OfGVufDB8MHx8fDE3MDQzNDQyNzh8MA&ixlib=rb-4.0.3&q=80&w=1080) | [[Attachment_NHH/MOC/ANKI MOC\|ANKI MOC]]                       |
 
 { .block-language-dataview}
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/attachment-nhh/moc/people/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+| Image                                                                                                                                                                                                                          | Tác giả        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| ![\|500x300](\-)                                                                                                                                                                                                               | \-             |
+| ![\|500x300](\-)                                                                                                                                                                                                               | \-             |
+| ![\|500x300](\-)                                                                                                                                                                                                               | \-             |
+| ![\|500x300](\-)                                                                                                                                                                                                               | Thu nguyễn     |
+| ![\|500x300](\-)                                                                                                                                                                                                               | Thảo nguyễn    |
+| ![\|500x300](\-)                                                                                                                                                                                                               | Hải Phượng Lê  |
+| ![\|500x300](\-)                                                                                                                                                                                                               | Nguyễn Thảo    |
+| ![\|500x300](\-)                                                                                                                                                                                                               | Duong Tran     |
+| ![\|500x300](https://images.unsplash.com/photo-1465343161283-c1959138ddaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzA0MzQ0ODE5fDA&ixlib=rb-4.0.3&q=80&w=1080) | Mai Uyên Hương |
+| ![\|500x300](https://images.unsplash.com/photo-1444583791700-0bd8d26df657?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzfHx0b3B8ZW58MHwwfHx8MTcwNDM0NDc5MXww&ixlib=rb-4.0.3&q=80&w=1080)            | \-             |
+| ![\|500x300](\-)                                                                                                                                                                                                               | Thuy tulip     |
+
+{ .block-language-dataview}
+
+
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+
+</div></div>
