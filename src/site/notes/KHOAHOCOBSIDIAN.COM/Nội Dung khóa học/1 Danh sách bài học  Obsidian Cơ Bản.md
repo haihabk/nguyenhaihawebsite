@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/KHOAHOCOBSIDIAN.COM/Nội Dung khóa học/1 Danh sách bài học  Obsidian Cơ Bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:48.102+07:00","updated":"2023-12-29T17:39:21.620+07:00"}
+{"dg-publish":true,"share":true,"permalink":"/KHOAHOCOBSIDIAN.COM/Nội Dung khóa học/1 Danh sách bài học  Obsidian Cơ Bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:48.102+07:00","updated":"2024-01-04T15:47:36.366+07:00"}
 ---
 
 
