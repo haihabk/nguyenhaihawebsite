@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/KHOAHOCOBSIDIAN.COM/Nội Dung khóa học/2 Danh sách bài học Obsidian nâng cao/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:48.082+07:00","updated":"2023-12-29T17:44:21.058+07:00"}
+{"dg-publish":true,"share":true,"permalink":"/KHOAHOCOBSIDIAN.COM/Nội Dung khóa học/2 Danh sách bài học Obsidian nâng cao/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:48.082+07:00","updated":"2024-01-04T15:49:10.561+07:00"}
 ---
 
 ## [[KHOAHOCOBSIDIAN.COM/HOME PAGE\|👈 QUAY LẠI]]
