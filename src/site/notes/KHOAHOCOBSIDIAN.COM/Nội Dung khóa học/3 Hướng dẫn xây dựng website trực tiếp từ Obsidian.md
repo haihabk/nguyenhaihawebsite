@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/KHOAHOCOBSIDIAN.COM/Nội Dung khóa học/3 Hướng dẫn xây dựng website trực tiếp từ Obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:48.067+07:00","updated":"2023-12-29T17:41:53.015+07:00"}
+{"dg-publish":true,"share":true,"permalink":"/KHOAHOCOBSIDIAN.COM/Nội Dung khóa học/3 Hướng dẫn xây dựng website trực tiếp từ Obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:48.067+07:00","updated":"2024-01-04T16:27:05.977+07:00"}
 ---
 
 
