@@ -3,7 +3,7 @@
 ---
 
 
-[[Homepage\|Quay Lại👈]] [[Attachment_NHH/ELT\|ELT]] 
+[[Homepage\|Quay Lại👈]] [[ELT\|ELT]] 
 
 
 ## [Xem tiêu chuẩn ở đây- my onedrive ](https://onedrive.live.com/?id=5789757131C7DAFA%21107265&cid=5789757131C7DAFA)
