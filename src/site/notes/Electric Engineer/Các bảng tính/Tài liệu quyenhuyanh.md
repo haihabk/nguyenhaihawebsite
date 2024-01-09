@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/Electric Engineer/Các bảng tính/Tài liệu quyenhuyanh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-27T13:56:17.172+07:00","updated":"2023-12-27T14:09:20.278+07:00"}
 ---
 
-author :: [[Attachment_NHH/quyenhuyanh\|quyenhuyanh]]
+author :: [[quyenhuyanh\|quyenhuyanh]]
 url::  https://www.quyenhuyanh.com/t%C3%A0i-li%E1%BB%87u
 
  [[Homepage\|Quay Lại👈]]
