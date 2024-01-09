@@ -10,4 +10,4 @@
 
 
 ---
-[[Generator\|Generator]] [[Attachment_NHH/ELT\|ELT]] 
+[[Generator\|Generator]] [[ELT\|ELT]] 
