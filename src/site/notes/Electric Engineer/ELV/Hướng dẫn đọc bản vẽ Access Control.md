@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["ELV/Accesscontrol","ELV","access-control"],"Related":["ELV"],"date":null,"URL":"https://www.youtube.com/watch?v=wjq7nnvs6Kc","Author":"MEPF","dg-publish":true,"permalink":"/Electric Engineer/ELV/Hướng dẫn đọc bản vẽ Access Control/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-21T16:47:32.170+07:00","updated":"2023-12-26T11:09:21.639+07:00"}
+{"aliases":null,"tags":["ELV/Accesscontrol","ELV","access-control"],"Related":["ELV"],"date":null,"URL":"https://www.youtube.com/watch?v=wjq7nnvs6Kc","Author":"MEPF","dg-publish":true,"permalink":"/Electric Engineer/ELV/Hướng dẫn đọc bản vẽ Access Control/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-21T16:47:32.170+07:00","updated":"2024-01-09T11:09:05.788+07:00"}
 ---
 
 # Hệ thống Access Control kiểu IP
@@ -44,18 +44,6 @@ Lưu ý: Tín hiệu báo cháy- Khi có cháy-> Mở cửa để đảm bảo a
 ![](https://i.imgur.com/DwOpPwf.png)
 
 
-Chọn Swith
-
-![](file:///C:/Users/nguyhh/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png)
-
-Core SWITCH 24P -> Switch 24 port
-
-4SFP :  4 tiếp điểm giao tiếp quang.
-
- ![](file:///C:/Users/nguyhh/AppData/Local/Temp/msohtmlclip1/01/clip_image019.png)
-
-![A computer screen shot of a computer program
-Description automatically generated](file:///C:/Users/nguyhh/AppData/Local/Temp/msohtmlclip1/01/clip_image021.png)
 
 ## Bố trí mặt bằng 
 1.    Cửa đơn bao gồm các thành phần như sau :
