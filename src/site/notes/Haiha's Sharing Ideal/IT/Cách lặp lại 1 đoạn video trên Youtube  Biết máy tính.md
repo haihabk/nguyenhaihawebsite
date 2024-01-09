@@ -1,5 +1,5 @@
 ---
-{"created":"2024-01-05T17:05:06.898+07:00","tags":null,"source":"https://bietmaytinh.com/lap-lai-1-doan-video-youtube/","author":"KeniVinh","dg-publish":true,"permalink":"/Haiha's Sharing Ideal/IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính/","dgPassFrontmatter":true,"noteIcon":"2","updated":"2024-01-05T17:14:57.703+07:00"}
+{"created":"2024-01-05T17:05:06.898+07:00","tags":null,"source":"https://bietmaytinh.com/lap-lai-1-doan-video-youtube/","author":"KeniVinh","dg-publish":true,"aliases":["video loop"],"permalink":"/Haiha's Sharing Ideal/IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính/","dgPassFrontmatter":true,"noteIcon":"2","updated":"2024-01-05T17:30:07.834+07:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 ---
 Muốn phát lại video Youtube vừa xem xong, bạn chỉ đơn giản sử dụng tính năng Phát lại trong Youtube để làm việc này, sau đó thì cứ thế xem MV ca nhạc mình thích cả chục lần mà không cần phải làm gì.
 
--   [2 cách phát lại video Youtube](https://bietmaytinh.com/cach-phat-lai-video-youtube/)
+##  [2 cách phát lại video Youtube](https://bietmaytinh.com/cach-phat-lai-video-youtube/)
 
 Tuy vậy, trong nhiều trường hợp bạn chỉ muốn lặp lại 1 đoạn video trên Youtube thôi, thay vì xem lại hết video.
 
