@@ -16,7 +16,6 @@
 | [[People/ĐIỀU GÌ CẢN TRỞ BẠN TIẾN BỘ\|ĐIỀU GÌ CẢN TRỞ BẠN TIẾN BỘ]]                                               | Mai Uyên Hương | <ul><li>#MaiUyenHuong</li></ul>                                                                                             |
 | [[People/Để trở thành người thuộc top 10%\|Để trở thành người thuộc top 10%]]                                     | \-             | <ul></ul>                                                                                                                   |
 | [[People/Phương Pháp học tiếng anh\|Phương Pháp học tiếng anh]]                                                   | Thuy tulip     | <ul></ul>                                                                                                                   |
-| [[People/Text to speech\|Text to speech]]                                                                         | \-             | <ul></ul>                                                                                                                   |
 
 { .block-language-dataview}
 
