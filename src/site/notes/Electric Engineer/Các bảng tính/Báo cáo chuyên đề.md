@@ -1,6 +1,7 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/Electric Engineer/Các bảng tính/Báo cáo chuyên đề/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-27T13:54:01.409+07:00","updated":"2023-12-27T14:09:15.481+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/photo-1555089548-88459e991a93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMXx8Zmxvd2VyfGVufDB8MHx8fDE3MDQ4ODI0NTh8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/Electric Engineer/Các bảng tính/Báo cáo chuyên đề/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-27T13:54:01.409+07:00","updated":"2024-01-10T17:27:41.044+07:00"}
 ---
+
 
 [[Homepage\|Quay Lại👈]]
 
