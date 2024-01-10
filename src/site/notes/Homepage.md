@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-pinned":true,"cssclasses":["cards"],"permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.449+07:00","updated":"2024-01-10T13:51:55.862+07:00"}
+{"dg-home":true,"dg-publish":true,"dg-pinned":true,"cssclasses":["cards"],"permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.449+07:00","updated":"2024-01-10T13:59:07.658+07:00"}
 ---
 
 Đây là nơi mình sẽ học hỏi và chia sẻ. 
@@ -18,10 +18,10 @@
 { .block-language-dataview}
 
 
-| File                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| [[Dairy/Trang web để lấy icon\|Trang web để lấy icon]]                                                              |
-| [[IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính\|Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính]] |
-| [[IT/Text to speech\|Text to speech]]                                                                               |
+| File                                                                                                                   | TAG                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [[Dairy/Trang web để lấy icon\|Trang web để lấy icon]]                                                              | <ul><li>#icon</li><li>#website</li><li>#software</li><li>#tip</li></ul> |
+| [[IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính\|Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính]] | <ul><li>#tip</li><li>#software</li></ul>                                |
+| [[IT/Text to speech\|Text to speech]]                                                                               | <ul><li>#software</li><li>#Texttospeech</li><li>#tip</li></ul>          |
 
 { .block-language-dataview}
