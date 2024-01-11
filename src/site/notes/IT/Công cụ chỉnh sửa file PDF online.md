@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/IT/Công cụ chỉnh sửa file PDF online/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-11T15:02:37.384+07:00","updated":"2024-01-11T15:46:33.393+07:00"}
+{"dg-publish":true,"permalink":"/IT/Công cụ chỉnh sửa file PDF online/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-11T15:02:37.384+07:00","updated":"2024-01-11T16:04:26.777+07:00"}
 ---
+
+# Trang số 1 : https://pdfcandy.com/vn
+# Trang số 2 tương tự : https://www.ilovepdf.com/
+
 
 Mình là nhân viên văn phòng, thi thoảng mình phải chỉnh sửa lại file PDF, mình tâm đắc nhất là công cụ web có thể chỉnh sửa trực tiếp file PDF mà không cần phải tải về.
 
