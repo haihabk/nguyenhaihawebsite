@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/IT/Công cụ chỉnh sửa file PDF online/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-11T15:02:37.384+07:00","updated":"2024-01-11T16:04:26.777+07:00"}
+{"dg-publish":true,"permalink":"/IT/Công cụ chỉnh sửa file PDF online/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-11T15:02:37.384+07:00","updated":"2024-01-11T16:05:08.424+07:00"}
 ---
 
 # Trang số 1 : https://pdfcandy.com/vn
@@ -19,4 +19,3 @@ Em web mà mình giới thiệu hôm nay là em pdfcandy, mình để link web �
 Mình sưu tầm của thủy theo link sau. nhờ Thủy mình biết trang này nên lưu về cho tiện tìm, cám ơn bạn đã chia sẻ nhé
 #pdf #tool #IT 
 https://thuydayroi.com/cong-cu-chinh-sua-file-pdf/
-# [Trang web chuyển pdf sang định dạng khác](https://pdfcandy.com/vn/)
