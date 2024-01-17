@@ -6,7 +6,7 @@
 
 
 # Text Elements
-[[ELV/Thiết kế hệ thống điện nhẹ -review hệ camera tòa 34 tầng\|Thiết kế hệ thống điện nhẹ -review hệ camera tòa 34 tầng]]
+[[Electric Engineer/ELV/Thiết kế hệ thống điện nhẹ -review hệ camera tòa 34 tầng\|Thiết kế hệ thống điện nhẹ -review hệ camera tòa 34 tầng]]
 { #seTJehvS}
 
 
