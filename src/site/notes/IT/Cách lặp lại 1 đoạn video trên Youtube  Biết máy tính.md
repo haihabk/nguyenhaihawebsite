@@ -1,5 +1,5 @@
 ---
-{"created":"2024-01-05T17:05:06.898+07:00","tags":null,"source":"https://bietmaytinh.com/lap-lai-1-doan-video-youtube/","author":"KeniVinh","dg-publish":true,"aliases":["video loop"],"permalink":"/IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính/","dgPassFrontmatter":true,"noteIcon":"2","updated":"2024-01-10T13:50:56.934+07:00"}
+{"created":"2024-01-05T17:05:08.086+07:00","tags":null,"source":"https://bietmaytinh.com/lap-lai-1-doan-video-youtube/","author":"KeniVinh","dg-publish":true,"aliases":["video loop"],"permalink":"/IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính/","dgPassFrontmatter":true,"noteIcon":"2","updated":"2024-01-10T13:50:56.000+07:00"}
 ---
 
 #tip #software 
