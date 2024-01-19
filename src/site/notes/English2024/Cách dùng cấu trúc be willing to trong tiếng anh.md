@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://zim.vn/cau-truc-be-willing-to","Author":null,"dg-publish":true,"permalink":"/English2024/Cách dùng cấu trúc be willing to trong tiếng anh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-25T17:51:25.768+07:00","updated":"2023-12-25T17:54:50.398+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://zim.vn/cau-truc-be-willing-to","Author":null,"dg-publish":true,"permalink":"/English2024/Cách dùng cấu trúc be willing to trong tiếng anh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-25T17:51:27.093+07:00","updated":"2023-12-25T17:54:50.000+07:00"}
 ---
 
  [[Author\|Author]] ::
