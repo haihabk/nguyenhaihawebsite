@@ -1,5 +1,5 @@
 ---
-{"Cover":"https://i.pinimg.com/564x/85/95/77/85957730e4fa2b6b4f46eacb71b49bec.jpg","Book_name":"Một đời như kẻ tìm Đường","tags":null,"aliases":null,"author":"Phan Văn Trường","link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Cuộc đời/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:47.136+07:00","updated":"2023-12-21T18:03:17.395+07:00"}
+{"Cover":"https://i.pinimg.com/564x/85/95/77/85957730e4fa2b6b4f46eacb71b49bec.jpg","Book_name":"Một đời như kẻ tìm Đường","tags":null,"aliases":null,"author":"Phan Văn Trường","link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Cuộc đời/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T06:59:29.616+07:00","updated":"2023-12-21T18:03:17.000+07:00"}
 ---
 
 [[Một đời như kẻ tìm đường\|Một đời như kẻ tìm đường]]
