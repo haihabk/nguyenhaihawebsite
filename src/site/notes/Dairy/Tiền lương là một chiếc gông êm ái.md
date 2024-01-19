@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2023-12-26","Author":"nguyễn hải hà","permalink":"/Dairy/Tiền lương là một chiếc gông êm ái/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-26T09:54:56.473+07:00","updated":"2023-12-26T10:43:58.522+07:00"}
+{"dg-publish":true,"date":"2023-12-26","Author":"nguyễn hải hà","permalink":"/Dairy/Tiền lương là một chiếc gông êm ái/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-26T09:54:57.690+07:00","updated":"2023-12-29T19:10:27.540+07:00"}
 ---
 
 
