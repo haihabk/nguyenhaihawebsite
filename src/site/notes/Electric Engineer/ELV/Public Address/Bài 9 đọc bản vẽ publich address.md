@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Public Address/Bài 9 đọc bản vẽ publich address/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-17T14:04:39.447+07:00","updated":"2024-01-17T15:24:28.455+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Public Address/Bài 9 đọc bản vẽ publich address/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-17T14:04:39.447+07:00","updated":"2024-01-19T13:32:55.544+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -15,7 +15,7 @@ Ví dụ ta có 6/3/1.5W - Ta có thể chọn mức công suất. Được lắ
 
 
 #khoangcachloa
-<!--SR:!2024-01-20,3,250!2024-01-20,3,250-->
+
 
 Nên thiết kế khoảng 240W cho một Zone, 💳( và nên trong khoảng 200m)
 
