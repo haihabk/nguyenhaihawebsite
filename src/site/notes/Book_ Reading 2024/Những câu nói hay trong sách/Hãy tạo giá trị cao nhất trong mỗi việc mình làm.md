@@ -1,5 +1,5 @@
 ---
-{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Hãy tạo giá trị cao nhất trong mỗi việc mình làm/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:47.072+07:00","updated":"2023-12-21T17:56:41.119+07:00"}
+{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Hãy tạo giá trị cao nhất trong mỗi việc mình làm/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T06:59:29.083+07:00","updated":"2023-12-21T17:56:41.000+07:00"}
 ---
 
 Hãy tạo giá trị cao nhất trong mỗi giá trị mình làm và bạn sẽ ngạc nhiên là thế giới sẽ chuộng ban đến độ mà thành công là kết quả dĩ nhiên, thậm chí sẽ lặp đi lặp lại. Và đừng lo có một ngày kia họ chia tay với bạn. Những người làm việc cặn kẽ như bạn quá quý hiếm nên chẳng ai muốn đẩy bạn đi chỗ khác.
