@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/Electric Engineer/Các bảng tính/Tài liệu quyenhuyanh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-27T13:56:17.172+07:00","updated":"2023-12-27T14:09:20.278+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/Electric Engineer/Các bảng tính/Tài liệu quyenhuyanh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-27T13:56:18.246+07:00","updated":"2023-12-27T14:09:20.000+07:00"}
 ---
 
 author :: [[quyenhuyanh\|quyenhuyanh]]
