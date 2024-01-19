@@ -1,5 +1,5 @@
 ---
-{"author":"Thảo nguyễn","Link":"https://www.facebook.com/groups/phunuphattrienbanthan/posts/1542899503192664/","dg-publish":true,"permalink":"/People/Thay đổi tư duy- Thay đổi cuộc đời/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:47.737+07:00","updated":"2024-01-03T15:09:50.986+07:00"}
+{"author":"Thảo nguyễn","Link":"https://www.facebook.com/groups/phunuphattrienbanthan/posts/1542899503192664/","dg-publish":true,"permalink":"/People/Thay đổi tư duy- Thay đổi cuộc đời/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T06:59:34.150+07:00","updated":"2024-01-03T15:09:50.000+07:00"}
 ---
 
 author:: [[Attachment_NHH/System/Author/Thảo nguyễn\|Thảo nguyễn]]
