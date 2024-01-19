@@ -1,15 +1,16 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/QUY ĐỊNH NÀO LIÊN QUAN ĐẾN LẮP ĐẶT NÚT ẤN BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T10:03:10.199+07:00","updated":"2024-01-19T10:07:12.391+07:00"}
+{"aliases":["nút ấn báo cháy"],"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/QUY ĐỊNH NÀO LIÊN QUAN ĐẾN LẮP ĐẶT NÚT ẤN BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T10:03:10.199+07:00","updated":"2024-01-19T15:28:33.860+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
 
 Source : 
-Tags: #nutan #manualcallpoint #FA 
+Tags: #nutan #manualcallpoint #FA #nutanbaochay
+
 
 ---
-
-Căn cứ theo TCVN 5738-2001 có quy định như sau:
+==Phần này cũ rồi- update theo TCVN 5738-2021==
+# Căn cứ theo TCVN 5738-2001 có quy định như sau:
 
 Định nghĩa nút nhấn tại mục 2.4
 
@@ -20,3 +21,10 @@ Vị trí nút nhấn được thể hiện như sau:
 ![](https://i.imgur.com/DcNYziH.png)
 ![](https://i.imgur.com/kKHbGmN.png)
 ![](https://i.imgur.com/9jNohl5.png)
+# ==Theo TCVN 5738 2021.==
+
+## Nút ấn báo cháy.
+
+
+![](https://i.imgur.com/JNeNz7b.png)
+![](https://i.imgur.com/3xWGoOv.png)
