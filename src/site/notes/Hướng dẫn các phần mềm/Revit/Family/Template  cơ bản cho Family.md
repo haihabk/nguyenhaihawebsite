@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Revit"],"permalink":"/Hướng dẫn các phần mềm/Revit/Family/Template  cơ bản cho Family/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-07T15:06:28.565+07:00","updated":"2023-12-27T10:36:47.083+07:00"}
+{"dg-publish":true,"tags":["Revit"],"permalink":"/Hướng dẫn các phần mềm/Revit/Family/Template  cơ bản cho Family/","dgPassFrontmatter":true,"noteIcon":"2","created":"2022-09-05T16:44:23.873+07:00","updated":"2023-12-27T10:36:47.000+07:00"}
 ---
 
 **1.HAY DÙNG NHẤT**
