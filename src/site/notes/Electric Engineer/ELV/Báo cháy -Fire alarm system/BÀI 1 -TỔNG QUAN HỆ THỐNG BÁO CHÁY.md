@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=ogU7tgx8gyE&t=334s","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-12T13:33:19.383+07:00","updated":"2024-01-12T16:04:09.888+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=ogU7tgx8gyE&t=334s","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:49.531+07:00","updated":"2024-01-12T16:04:09.000+07:00"}
 ---
 
 Source : https://www.youtube.com/watch?v=ogU7tgx8gyE&t=334s
