@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=QuUet3c_VYg&list=PLJ0kV3BxDBJtqEpykCjcKxiT5Sd_iXavv&index=9","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 7 Hướng Dẫn Đọc Bản Vẽ Báo Cháy Chung Cư  Sugar MEPF/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-12T16:43:51.905+07:00","updated":"2024-01-15T10:13:00.756+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=QuUet3c_VYg&list=PLJ0kV3BxDBJtqEpykCjcKxiT5Sd_iXavv&index=9","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 7 Hướng Dẫn Đọc Bản Vẽ Báo Cháy Chung Cư  Sugar MEPF/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:49.579+07:00","updated":"2024-01-15T10:13:00.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
