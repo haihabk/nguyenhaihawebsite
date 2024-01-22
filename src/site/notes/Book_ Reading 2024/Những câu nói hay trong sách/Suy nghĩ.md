@@ -1,5 +1,5 @@
 ---
-{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Suy nghĩ/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T06:59:26.013+07:00","updated":"2023-12-21T17:56:41.000+07:00"}
+{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Suy nghĩ/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:27.678+07:00","updated":"2023-12-21T17:56:41.000+07:00"}
 ---
 
 - Người không mục đích như thuyền không lái
