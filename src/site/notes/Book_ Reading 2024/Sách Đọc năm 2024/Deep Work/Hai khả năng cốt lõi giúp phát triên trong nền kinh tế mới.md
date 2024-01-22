@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Book_ Reading 2024/Sách Đọc năm 2024/Deep Work/Hai khả năng cốt lõi giúp phát triên trong nền kinh tế mới/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-02T13:39:03.670+07:00","updated":"2024-01-15T13:27:24.000+07:00"}
+{"dg-publish":true,"permalink":"/Book_ Reading 2024/Sách Đọc năm 2024/Deep Work/Hai khả năng cốt lõi giúp phát triên trong nền kinh tế mới/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:12.844+07:00","updated":"2024-01-15T13:27:24.000+07:00"}
 ---
 
 [[Attachment_NHH/System/Author/Deep Work\|Deep Work]]
