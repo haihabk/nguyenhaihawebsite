@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Hệ thống kích sóng tòa nhà/Các thành phần của hệ thống IBS/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-17T10:25:29.553+07:00","updated":"2024-01-17T11:30:29.686+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Hệ thống kích sóng tòa nhà/Các thành phần của hệ thống IBS/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:49.450+07:00","updated":"2024-01-17T11:30:29.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
