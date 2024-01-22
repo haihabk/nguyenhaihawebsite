@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.facebook.com/thucupid/posts/pfbid0HcAYrWWGTrCbaTD6FsxbDf5Pb78DcKPwiL3spyN5rP4RZBbTqArffV6aUznmY","Author":"Thu nguyễn","permalink":"/People/Học khi không có nhiều thời gian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T06:59:34.413+07:00","updated":"2023-12-27T13:32:23.000+07:00"}
+{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.facebook.com/thucupid/posts/pfbid0HcAYrWWGTrCbaTD6FsxbDf5Pb78DcKPwiL3spyN5rP4RZBbTqArffV6aUznmY","Author":"Thu nguyễn","permalink":"/People/Học khi không có nhiều thời gian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:27.906+07:00","updated":"2023-12-27T13:32:23.000+07:00"}
 ---
 
 HỌC KHI KHÔNG CÓ NHIỀU THỜI GIAN
