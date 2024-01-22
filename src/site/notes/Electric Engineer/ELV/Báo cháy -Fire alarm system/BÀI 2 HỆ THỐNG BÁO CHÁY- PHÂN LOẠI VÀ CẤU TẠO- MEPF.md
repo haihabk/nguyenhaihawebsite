@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=rQkgvdDvC7A","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 2 HỆ THỐNG BÁO CHÁY- PHÂN LOẠI VÀ CẤU TẠO- MEPF/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-12T15:45:58.458+07:00","updated":"2024-01-12T16:06:29.591+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=rQkgvdDvC7A","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 2 HỆ THỐNG BÁO CHÁY- PHÂN LOẠI VÀ CẤU TẠO- MEPF/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:49.541+07:00","updated":"2024-01-12T16:06:29.000+07:00"}
 ---
 
 source :https://www.youtube.com/watch?v=rQkgvdDvC7A
