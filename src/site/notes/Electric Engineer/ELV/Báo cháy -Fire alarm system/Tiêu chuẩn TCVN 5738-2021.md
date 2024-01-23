@@ -1,5 +1,5 @@
 ---
-{"aliases":"khoảng cách đầu báo","tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Tiêu chuẩn TCVN 5738-2021/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:49.506+07:00","updated":"2024-01-19T10:00:38.000+07:00"}
+{"aliases":"khoảng cách đầu báo","tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Tiêu chuẩn TCVN 5738-2021/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-11T17:26:59.488+07:00","updated":"2024-01-19T10:00:38.601+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
