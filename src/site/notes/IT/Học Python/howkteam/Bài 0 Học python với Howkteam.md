@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/IT/Học Python/howkteam/Bài 0 Học python với Howkteam/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:49.283+07:00","updated":"2024-01-17T12:57:08.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/IT/Học Python/howkteam/Bài 0 Học python với Howkteam/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-17T12:26:42.875+07:00","updated":"2024-01-17T12:57:08.469+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
