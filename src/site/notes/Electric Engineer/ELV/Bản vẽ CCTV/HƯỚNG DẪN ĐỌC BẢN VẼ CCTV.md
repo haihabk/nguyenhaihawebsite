@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Bản vẽ CCTV/HƯỚNG DẪN ĐỌC BẢN VẼ CCTV/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:49.653+07:00","updated":"2024-01-17T16:49:29.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Bản vẽ CCTV/HƯỚNG DẪN ĐỌC BẢN VẼ CCTV/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-17T16:41:33.084+07:00","updated":"2024-01-17T16:49:29.014+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
