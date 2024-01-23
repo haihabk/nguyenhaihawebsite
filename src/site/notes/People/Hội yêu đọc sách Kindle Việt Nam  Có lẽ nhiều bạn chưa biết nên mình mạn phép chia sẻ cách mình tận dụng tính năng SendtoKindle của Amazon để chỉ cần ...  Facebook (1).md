@@ -1,5 +1,5 @@
 ---
-{"created":"2024-01-19T05:27:49.357+07:00","tags":null,"source":"https://www.facebook.com/groups/yeukindlevietnam/permalink/2124703681212265/?mibextid=W9rl1R","author":null,"dg-publish":true,"permalink":"/People/Hội yêu đọc sách Kindle Việt Nam  Có lẽ nhiều bạn chưa biết nên mình mạn phép chia sẻ cách mình tận dụng tính năng SendtoKindle của Amazon để chỉ cần ...  Facebook (1)/","dgPassFrontmatter":true,"noteIcon":"2","updated":"2024-01-18T11:17:39.000+07:00"}
+{"created":"2024-01-18T10:58:15.914+07:00","tags":null,"source":"https://www.facebook.com/groups/yeukindlevietnam/permalink/2124703681212265/?mibextid=W9rl1R","author":null,"dg-publish":true,"permalink":"/People/Hội yêu đọc sách Kindle Việt Nam  Có lẽ nhiều bạn chưa biết nên mình mạn phép chia sẻ cách mình tận dụng tính năng SendtoKindle của Amazon để chỉ cần ...  Facebook (1)/","dgPassFrontmatter":true,"noteIcon":"2","updated":"2024-01-18T11:17:39.968+07:00"}
 ---
 
 Source :https://www.facebook.com/groups/yeukindlevietnam/permalink/2124703681212265/?mibextid=W9rl1R
