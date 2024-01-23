@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":"Duong Tran","dg-publish":true,"permalink":"/People/Tầm quan trọng của NHỊP ĐIỆU/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-25T17:43:26.713+07:00","updated":"2023-12-27T13:31:56.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":"Duong Tran","dg-publish":true,"permalink":"/People/Tầm quan trọng của NHỊP ĐIỆU/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-25T17:43:25.264+07:00","updated":"2023-12-27T13:31:56.651+07:00"}
 ---
 
 author::[[Attachment_NHH/System/Author/Duong Tran\|Duong Tran]]  
