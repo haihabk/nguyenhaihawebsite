@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/IT/Mở lịch âm trên iphone/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-24T13:08:53.594+07:00","updated":"2024-01-24T13:14:50.447+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/IT/Mở lịch âm trên iphone/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-24T13:08:53.594+07:00","updated":"2024-01-24T17:32:12.098+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -9,18 +9,36 @@ Tags: #iphone #calendar
 ---
 Mở lịch âm trên iphone cả nhà nhé.
 
-1. Vào cài đặt
+1. Copy lịch âm 2022-2032 vào bộ nhớ tạm
 
-2. Chọn lịch
+[https://bom.so/Nnqh7G](https://bom.so/Nnqh7G)
 
-3. Chọn thay thế
+2. Chọn tài khoản
 
-4. Chọn hồi giáo
+3. Chọn thêm tài khoản
 
-Của mình để chế độ Tiếng Anh nên mình chụp ảnh màn hình bằng Tiếng Anh nha!
+4. Chọn khác
 
-![|500x800](https://i.imgur.com/TEdA9hw.png)
+5. Chọn thêm lịch đã đăng kí
+
+6. Dán l ink trên vào
+
+7. Chọn tiếp rồi ấn lưu
+
+Của mình để chế độ Tiếng Anh nên mình chụp ảnh màn hình bằng Tiếng Anh nhé
+
+1.![](https://i.imgur.com/FiliGIq.png)
 ---
-![|500x800](https://i.imgur.com/B6Djm2N.png)
+![](https://i.imgur.com/nIpOZ3y.png)
 ---
-![|500x800](https://i.imgur.com/0RANM03.png)
+![](https://i.imgur.com/6K63JR1.png)
+---
+![](https://i.imgur.com/pSY2VFR.png)
+---
+![](https://i.imgur.com/eGZZf3i.png)
+---
+![](https://i.imgur.com/HXIK57V.png)
+---
+![](https://i.imgur.com/ML91HTC.png)
+---
+![](https://i.imgur.com/Y4B85u9.png)
