@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=ogU7tgx8gyE&t=334s","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-12T13:33:19.383+07:00","updated":"2024-01-12T16:04:09.888+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=ogU7tgx8gyE&t=334s","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-12T13:33:19.383+07:00","updated":"2024-01-24T15:56:18.640+07:00"}
 ---
 
 Source : https://www.youtube.com/watch?v=ogU7tgx8gyE&t=334s
@@ -8,7 +8,7 @@ Source : https://www.youtube.com/watch?v=ogU7tgx8gyE&t=334s
 
 # BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY
 ## kHÁI NIỆM :
- Hệ thống báo cháy tự động là hệ thốn thietes bị tự động phát hiện và thông báo địa điểm cháy
+ Hệ thống báo cháy tự động là hệ thống thiết bị tự động phát hiện và thông báo địa điểm cháy.
 ### Các thành phần của hệ thống báo cháy
 - Trung tâm báo cháy: được thiết kế dạng tủ, bao gồm các thiết bị chính: bo mạch xử lý thông tin, bộ nguồn, ác qui dự phòng.
 - Thiết bị đầu vào ( Thiết bị khởi đầu)
