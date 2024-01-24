@@ -12,10 +12,10 @@ Tags: #summarize #FA
 
 | File                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY\|BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY]]                                             |
 | [[Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 2 HỆ THỐNG BÁO CHÁY- PHÂN LOẠI VÀ CẤU TẠO- MEPF\|BÀI 2 HỆ THỐNG BÁO CHÁY- PHÂN LOẠI VÀ CẤU TẠO- MEPF]]           |
-| [[Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 6 Thiết kế BÁO CHÁY NHIỆT ADW THEO TCVN 7568 14 2014\|Bài 6 Thiết kế BÁO CHÁY NHIỆT ADW THEO TCVN 7568 14 2014]] |
+| [[Electric Engineer/ELV/Báo cháy -Fire alarm system/BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY\|BÀI 1 -TỔNG QUAN HỆ THỐNG BÁO CHÁY]]                                             |
 | [[Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 7 Hướng Dẫn Đọc Bản Vẽ Báo Cháy Chung Cư  Sugar MEPF\|Bài 7 Hướng Dẫn Đọc Bản Vẽ Báo Cháy Chung Cư  Sugar MEPF]] |
+| [[Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 6 Thiết kế BÁO CHÁY NHIỆT ADW THEO TCVN 7568 14 2014\|Bài 6 Thiết kế BÁO CHÁY NHIỆT ADW THEO TCVN 7568 14 2014]] |
 | [[Electric Engineer/ELV/Báo cháy -Fire alarm system/Các loại module trong báo cháy\|Các loại module trong báo cháy]]                                                     |
 | [[Electric Engineer/ELV/Báo cháy -Fire alarm system/Cáp dùng cho hệ thống báo cháy\|Cáp dùng cho hệ thống báo cháy]]                                                     |
 | [[Electric Engineer/ELV/Báo cháy -Fire alarm system/Cấu tạo hệ thống báo cháy địa chỉ\|Cấu tạo hệ thống báo cháy địa chỉ]]                                               |
