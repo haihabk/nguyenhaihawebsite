@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-29T14:11:53.674+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-30T09:33:55.714+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -190,16 +190,52 @@ str = "toi di hoc python"
 
 ## ==bien tat ca thanh chu hoa==
 
-print(str.upper())
+**print(str.upper())**
  -> Thu được kết quả : TOI DI HOC PYTHON
 ## ==biến tất cả thành chữ thường==
 
-print(str.lower()) -> toi di hoc python
+**print(str.lower()) **-> toi di hoc python
 
 
 ## Kiểm tra độ dài của chuỗi
- print(len(str))
+ **print(len(str))**
 
 ## kiểm tra từng ký tự trong chuỗi
 
-print(str[0]) -> chạy code -? trả về chữ t
+**print(str[0])** -> chạy code -? trả về chữ t
+
+0 là vị trí số 0.
+
+print(str[0:3]) 
+
+---
+==number = "12"==
+ Kiểm tra xem số trên có phải là số không?
+ 
+  print(number.isnumeric()) -> True
+
+**Kiểm tra loại của number.**
+
+print(type(number)) -> str
+---
+==Trường hợp ta thêm chữ sau số 12 như sau==
+
+number = "12A"
+
+print(number.isnumeric()) -> False
+
+mặc dù ta kiểm tra loại của number vẫn là str.
+
+print(type(number)) -> str
+
+---
+==Ví dụ ta có chuỗi như sau, ta cần kiểm tra xem chuỗi có phải là viết hoa không==
+
+str = "HELLO"
+print(str.isupper())  -> chạy lệnh TRUE
+
+HOẶC print(str.islower())
+
+---
+==kiểm tra độ dài của str== 
+print(len(str))-> chạy (alt shift f10) ->10
