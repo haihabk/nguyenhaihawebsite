@@ -19,11 +19,12 @@
 { .block-language-dataview}
 
 
-| File                                                                                                                   | TAG                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [[People/Tận dụng tính năng SendtoKindle của Amazon\|Tận dụng tính năng SendtoKindle của Amazon]]                   | <ul><li>#kindle</li><li>#tip</li><li>#amazone</li></ul>                 |
-| [[IT/Text to speech\|Text to speech]]                                                                               | <ul><li>#software</li><li>#Texttospeech</li><li>#tip</li></ul>          |
-| [[IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính\|Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính]] | <ul><li>#tip</li><li>#software</li></ul>                                |
-| [[Dairy/Trang web để lấy icon\|Trang web để lấy icon]]                                                              | <ul><li>#icon</li><li>#website</li><li>#software</li><li>#tip</li></ul> |
+| File                                                                                                                   | TAG                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [[People/Tận dụng tính năng SendtoKindle của Amazon\|Tận dụng tính năng SendtoKindle của Amazon]]                   | <ul><li>#kindle</li><li>#tip</li><li>#amazone</li></ul>                         |
+| [[IT/Text to speech\|Text to speech]]                                                                               | <ul><li>#software</li><li>#Texttospeech</li><li>#tip</li></ul>                  |
+| [[IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính\|Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính]] | <ul><li>#tip</li><li>#software</li></ul>                                        |
+| [[Dairy/Trang web để lấy icon\|Trang web để lấy icon]]                                                              | <ul><li>#icon</li><li>#website</li><li>#software</li><li>#tip</li></ul>         |
+| [[IT/Ghi âm màn hình và có hình con\|Ghi âm màn hình và có hình con]]                                               | <ul><li>#ghiam</li><li>#tip</li><li>#screenrecord</li><li>#lồng_tiếng</li></ul> |
 
 { .block-language-dataview}
