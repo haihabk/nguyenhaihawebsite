@@ -26,5 +26,6 @@
 | [[IT/Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính\|Cách lặp lại 1 đoạn video trên Youtube  Biết máy tính]] | <ul><li>#tip</li><li>#software</li></ul>                                        |
 | [[Dairy/Trang web để lấy icon\|Trang web để lấy icon]]                                                              | <ul><li>#icon</li><li>#website</li><li>#software</li><li>#tip</li></ul>         |
 | [[IT/Ghi âm màn hình và có hình con\|Ghi âm màn hình và có hình con]]                                               | <ul><li>#ghiam</li><li>#tip</li><li>#screenrecord</li><li>#lồng_tiếng</li></ul> |
+| [[IT/Cách biến Ipad thành màn hình phụ cho máy tính\|Cách biến Ipad thành màn hình phụ cho máy tính]]               | <ul><li>#tip</li><li>#ipad</li><li>#screen</li></ul>                            |
 
 { .block-language-dataview}
