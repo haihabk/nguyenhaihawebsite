@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-30T09:33:55.714+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-30T13:23:06.128+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -21,6 +21,7 @@ Tags:  #python
 
 ![](https://i.imgur.com/dV9BT8t.png)
 
+---
 # Bài 2 Comment code trong python
 
 ```ad-hint
@@ -32,6 +33,7 @@ Tags:  #python
 ## hoặc nếu có nhiều dòng thì có thể bắt đầu và kết thúc bằng 3 dấu "
 ![](https://i.imgur.com/OxEpyOK.png)
 
+---
 # Bài 3 Khai báo biến cơ bản trong python
 ### Bước 1  Tạo một file mới:
 
@@ -79,6 +81,7 @@ Ta có thể kiểm tra bằng lệnh print
 print(emp1)
 print(emp2)
 print(emp3)
+---
 ---
 # BÀI 4 Sử dụng input Prompt để lấy dữ liệu cơ bản
 ```ad-note
@@ -134,6 +137,7 @@ print(" I am " + name + ". I am " + ==str(age)== + " years old.")
 
 -> ta biến biến age thành dạng string để không bị lỗi khi ghép lệnh.
 ---
+---
 # Bài 5 Làm việc với Numbers trong Python
 
 
@@ -183,6 +187,7 @@ print(measage.format(a*b))
 ==LÝ DO:   a và b trong công thức input trên là kiểu string -> ta cần chuyển sang kiểu float, vì kiểu nhập vào có thể là số nguyên hoặc float==
 ---
 ![](https://i.imgur.com/qLkVxb7.png)
+---
 ---
 # Bài 6 Làm việc với string trong python
 
@@ -239,3 +244,73 @@ HOẶC print(str.islower())
 ---
 ==kiểm tra độ dài của str== 
 print(len(str))-> chạy (alt shift f10) ->10
+
+---
+# Bài 7 Làm việc với boolean trong python
+
+Kiểu boolean là kiểu true hoặc false
+
+ví dụ
+
+print(4<3) -> False
+
+print(4 == 4) -> true
+
+---
+# Bài 8 Làm việc với list trong python
+
+## ==python list==
+
+
+- Sử dụng Terminal trong Pycharm
+- Bây giờ ta đi khai báo biến :
+fruits = ["tao" , "chuoi", "cam", "mit", "dua hau", "kiwi", "ca chua" ]
+## ==Access item in list==
+
+```ad-note
+# số thứ tự của một list bắt đầu từ vị trí thứ 0; có nghĩa là gì, ví dụ trên thì "táo"- là vị trí số 0
+```
+
+### ==Ví dụ chúng ta muốn gọi ra item ở vị trí số 0:==
+
+print(fruits[0]) ->tao
+print(fruits[1]) -> chuoi
+print(fruits[2]) -> cam
+print(fruits[3]) -> mit
+
+### ==Thử xem xem trong chuỗi có bao nhiêu thành viên==
+
+len(fruits) -> 7
+
+```ad-question
+# Làm thế nào để truy nhập được last item ( phần tử cuối cùng trong list)
+```
+
+==print(fruits[len(fruits)-1])== / nhưng bạn có thể sử dụng cách khác nhanh hơn được nói ở phần tiếp theo 
+
+## ==Access item in list negative indexing style, first item reverse, first item from right==
+fruits[-1]
+fruits[-2]
+
+## Access item in list range style [2:5] , [2:], [-4:-1]
+
+![](https://i.imgur.com/FllgUVy.png)
+  [2: 5]   : index >=2 and index <5 ; inclue 2, exclude 5
+  ### ==Lấy từ item đầu tiên đến 5 [:5]==  -> chỉ gồm từ 0 cho đến phần tử số 4
+![](https://i.imgur.com/ovFq8Lb.png)
+
+### ==Lấy từ item thứ 2 cho tới cuối [2:]==
+>>> fruits = ["tao" , "chuoi", "cam", "mit", "dua hau", "kiwi", "ca chua" ]
+>>> fruits[2:]
+
+![](https://i.imgur.com/xdSTMuz.png)
+### ==ví dụ [-4:-1] : Sẽ bao gỗm -4 và không gồm thành phần -1==
+
+ví dụ trong chuỗi fruits = ["tao" , "chuoi", "cam", "mit", "dua hau", "kiwi", "ca chua" ]
+
+thì cà chua = -1
+kiwi = -2
+dua hau = -3
+mit =-4
+
+fruits[-4,-1]-> kết quả trả về sẽ gồm : mit, dua hay, kiwi và ==không bao gồm cà chua==
