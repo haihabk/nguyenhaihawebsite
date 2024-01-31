@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/Revit/Ẩn hiện đội tượng của revit/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-26T10:02:00.748+07:00","updated":"2024-01-26T10:12:38.979+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=4XUSToZQtow","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/Revit/Ẩn hiện đội tượng của revit/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-26T10:02:00.748+07:00","updated":"2024-01-31T14:59:27.008+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
