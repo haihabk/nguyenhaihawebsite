@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-30T13:23:06.128+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-31T12:45:24.115+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -314,3 +314,40 @@ dua hau = -3
 mit =-4
 
 fruits[-4,-1]-> kết quả trả về sẽ gồm : mit, dua hay, kiwi và ==không bao gồm cà chua==
+## ==Change value of a item in a list==
+
+ fruits = ["tao" , "chuoi", "cam", "mit", "dua hau", "kiwi", "ca chua" ]
+- Ta muốn chuyển "tao" thành "Tao"
+fruits[0] = "Tao"
+ 
+sau đó gọi lại fruits thì ta thu được kết quả
+
+fruits = ["Tao", "chuoi", "cam", "mit", "dua hau", "kiwi", "ca chua"]
+## ==loop through a list : Vòng lặp trong python==
+
+**for fruit in fruits:**
+Sau đó ta in ra để kiểm tra bằng lệnh print như sau:
+
+print(fruit)
+
+
+![](https://i.imgur.com/2evIjiR.png)
+
+
+## check if item in list
+: để kiểm tra xem một loại hoa quả có nằm trong chuỗi không
+![](https://i.imgur.com/3ihZaaj.png)
+## ==list length==
+
+len(fruits)
+
+## ==Add items to end : Thêm một item vào list==
+fruits.append("Sau rieng")
+![](https://i.imgur.com/Fq16AXm.png)
+## ==Insert item vs add item==.
+
+Ví dụ mình muốn insert quả "dua chuot" vào vị trí số 0 thì làm như sau:
+
+fruits.insert(0, "dua chuot")
+![](https://i.imgur.com/07zcV4o.png)
+
