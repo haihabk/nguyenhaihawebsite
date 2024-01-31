@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-31T12:45:24.115+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-31T15:17:15.386+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -351,3 +351,23 @@ Ví dụ mình muốn insert quả "dua chuot" vào vị trí số 0 thì làm n
 fruits.insert(0, "dua chuot")
 ![](https://i.imgur.com/07zcV4o.png)
 
+## Remove item -with remove()
+
+![](https://i.imgur.com/WzNCPbu.png)
+
+---
+## ==Remove item -with pop()==
+
+fruits.pop()   
+-> với hàm .pop nếu không đưa ra  vị trí thì nó sẽ bỏ đi phần tử cuối cùng.
+
+Ví dụ ta có chuỗi như sau:
+![](https://i.imgur.com/2yIWxN3.png)
+---
+## ==Remove item -with del==
+del fruits[0]
+
+## ==Empty a list - clear()==
+
+xóa toàn bộ giỏ hàng fruits đi
+del fruits
