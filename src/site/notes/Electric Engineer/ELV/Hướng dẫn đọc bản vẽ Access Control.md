@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["ELV/Accesscontrol","ELV","access-control"],"Related":["ELV"],"date":null,"URL":"https://www.youtube.com/watch?v=wjq7nnvs6Kc","Author":"MEPF","dg-publish":true,"permalink":"/Electric Engineer/ELV/Hướng dẫn đọc bản vẽ Access Control/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-21T16:47:32.170+07:00","updated":"2024-01-09T11:09:05.788+07:00"}
+{"aliases":null,"tags":["ELV/Accesscontrol","ELV","access-control"],"Related":["ELV"],"date":null,"URL":"https://www.youtube.com/watch?v=wjq7nnvs6Kc","Author":"MEPF","dg-publish":true,"permalink":"/Electric Engineer/ELV/Hướng dẫn đọc bản vẽ Access Control/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:19.805+07:00","updated":"2024-01-09T11:09:05.000+07:00"}
 ---
 
 # Hệ thống Access Control kiểu IP
