@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["software","Texttospeech"],"permalink":"/IT/Text to speech/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-10T13:32:52.094+07:00","updated":"2024-01-10T13:51:08.321+07:00"}
+{"dg-publish":true,"tags":["software","Texttospeech"],"permalink":"/IT/Text to speech/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:00.759+07:00","updated":"2024-01-10T13:51:08.000+07:00"}
 ---
 
 #software #Texttospeech  #tip 
