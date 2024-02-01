@@ -1,11 +1,13 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/IT/Camtasia/Hướng dẫn dùng camtasia quay màn hình/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-01T08:34:23.805+07:00","updated":"2024-02-01T12:58:01.194+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/IT/Camtasia/Hướng dẫn dùng camtasia quay màn hình/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-01T17:15:29.733+07:00","updated":"2024-02-01T16:10:32.000+07:00"}
 ---
 
 # Hướng dẫn dùng camtasia quay màn hình
 **[[Homepage\|Quay Lại👈]]**
 
 Source :: https://www.youtube.com/watch?v=pCzIGg92lyA
+<!--ID: 1706778631734-->
+
 author::
 Tags:: #camtasia #IT #lamvideo
 
