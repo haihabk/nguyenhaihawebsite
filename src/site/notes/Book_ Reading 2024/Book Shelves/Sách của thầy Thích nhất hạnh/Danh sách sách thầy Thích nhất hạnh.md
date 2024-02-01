@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Book_ Reading 2024/Book Shelves/Sách của thầy Thích nhất hạnh/Danh sách sách thầy Thích nhất hạnh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-04T11:17:48.702+07:00","updated":"2024-01-04T11:23:29.141+07:00"}
+{"dg-publish":true,"permalink":"/Book_ Reading 2024/Book Shelves/Sách của thầy Thích nhất hạnh/Danh sách sách thầy Thích nhất hạnh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:00.697+07:00","updated":"2024-01-04T11:23:29.000+07:00"}
 ---
 
 #Thichnhathanh #bookshel #bookshelves 
