@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"cover":null,"permalink":"/People/Cách đọc 100 cuốn sách 1 năm/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-02T13:23:57.730+07:00","updated":"2024-01-02T13:27:20.247+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"cover":null,"permalink":"/People/Cách đọc 100 cuốn sách 1 năm/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:12.936+07:00","updated":"2024-01-02T13:27:20.000+07:00"}
 ---
 
 author :: [[Attachment_NHH/System/Author/Đức Nhân\|Đức Nhân]]
