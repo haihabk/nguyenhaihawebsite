@@ -1,5 +1,5 @@
 ---
-{"aliases":["đầu báo trần giả"],"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/QUY ĐỊNH LẮP BÁO CHÁY TRÊN TRẦN/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T09:45:40.000+07:00","updated":"2024-01-19T15:41:41.587+07:00"}
+{"aliases":["đầu báo trần giả"],"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/QUY ĐỊNH LẮP BÁO CHÁY TRÊN TRẦN/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T17:32:26.354+07:00","updated":"2024-01-19T15:41:41.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
