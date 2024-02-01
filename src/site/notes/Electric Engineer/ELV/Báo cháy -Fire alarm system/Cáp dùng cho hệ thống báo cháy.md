@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Cáp dùng cho hệ thống báo cháy/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T10:44:09.520+07:00","updated":"2024-01-31T16:31:54.646+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Cáp dùng cho hệ thống báo cháy/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T17:32:26.308+07:00","updated":"2024-01-31T16:31:54.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
