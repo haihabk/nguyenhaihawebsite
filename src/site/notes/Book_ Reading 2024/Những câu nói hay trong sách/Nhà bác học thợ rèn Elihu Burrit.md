@@ -1,5 +1,5 @@
 ---
-{"Cover":null,"Book_name":"Rèn nghị lực để lập thân","tags":null,"aliases":null,"author":"nguyễn hiến lê","link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Nhà bác học thợ rèn Elihu Burrit/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.942+07:00","updated":"2023-12-22T13:45:32.355+07:00"}
+{"Cover":null,"Book_name":"Rèn nghị lực để lập thân","tags":null,"aliases":null,"author":"nguyễn hiến lê","link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Nhà bác học thợ rèn Elihu Burrit/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:27.754+07:00","updated":"2023-12-22T13:45:32.000+07:00"}
 ---
 
 [[Rèn nghị lực để lập thân\|Rèn nghị lực để lập thân]]
