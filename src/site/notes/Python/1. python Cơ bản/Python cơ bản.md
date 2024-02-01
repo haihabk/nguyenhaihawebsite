@@ -1,13 +1,11 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-01T05:11:01.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:12:03.133+07:00","updated":"2024-02-01T17:07:18.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
 
 Source : 
 Tags:  #python 
-
----
 
 # Bài 1 Cài đặt python và pycham IDE
 
@@ -358,20 +356,30 @@ fruits.insert(0, "dua chuot")
 ---
 ## ==Remove item -with pop()== 
 Bỏ đi một đối tượng ngoài cùng trong một list làm thế nào? #flashcard
-fruits.pop()   
+fruits.pop()
+---
 -> với hàm .pop nếu không đưa ra  vị trí thì nó sẽ bỏ đi phần tử cuối cùng.
 Ví dụ ta có chuỗi như sau:
 ![](https://i.imgur.com/2yIWxN3.png)
+
+
+
+
+
 ---
-## ==Remove item -with del==
+## ==Remove item -with del== #flashcard 
 del fruits[0]
-
+---
+Bỏ các phần tử ra khỏi một giỏ hàng #flashcard
 ## ==Empty a list - clear()==
+<!--ID: 1706782038860-->
 
-xóa toàn bộ giỏ hàng fruits đi
+
+---
+xóa toàn bộ giỏ hàng fruits đi #flashcard 
 del fruits
+---
 ## ==Copy một list==  #flashcard 
-
 list2 = fruits.copy()
 ---
 ## ==Join 2 list== 
@@ -388,3 +396,9 @@ Làm thế nào để sort một list? #flashcard
 **fruits.sort()**
 ![](https://i.imgur.com/XJ08YvL.png)
 ---
+<!--ID: 1706781869021-->
+
+
+
+
+
