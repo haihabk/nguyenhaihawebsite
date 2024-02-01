@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=QuUet3c_VYg&list=PLJ0kV3BxDBJtqEpykCjcKxiT5Sd_iXavv&index=9","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 7 Hướng Dẫn Đọc Bản Vẽ Báo Cháy Chung Cư  Sugar MEPF/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-12T16:43:51.905+07:00","updated":"2024-01-15T10:13:00.756+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=QuUet3c_VYg&list=PLJ0kV3BxDBJtqEpykCjcKxiT5Sd_iXavv&index=9","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 7 Hướng Dẫn Đọc Bản Vẽ Báo Cháy Chung Cư  Sugar MEPF/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:49.579+07:00","updated":"2024-02-01T16:10:32.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -49,6 +49,8 @@ Khi xảy ra cháy thì tất cả các van ở các tầng sẽ đóng lại, c
 ## PAF ::   Quạt tăng áp thang bộ
 - Thang bộ cần tạo áp dương mục đích để không khi bên ngoài không bị xâm nhập vào bên trong. giúp người thoát hiểm.
 - Để tạo áp dương cần có một quạt thổi không khí vào bên trong
+<!--ID: 1706778631782-->
+
 ## LIFT : KẾ NỐI VỚI THANG MÁY :
 Khi có cháy tất cả các thang sẽ được gọi về tầng 1- chỉ có thang máy chữa cháy là hoạt động
 ## ACV : Van báo động ( giám sát trạng thái van) 
