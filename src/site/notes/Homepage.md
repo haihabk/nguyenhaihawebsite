@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-pinned":true,"cssclasses":["cards"],"permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.449+07:00","updated":"2024-01-10T14:45:49.221+07:00"}
+{"dg-home":true,"dg-publish":true,"dg-pinned":true,"cssclasses":["cards"],"permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:27.287+07:00","updated":"2024-01-10T14:45:49.000+07:00"}
 ---
 
 Đây là nơi mình sẽ học hỏi và chia sẻ. 
