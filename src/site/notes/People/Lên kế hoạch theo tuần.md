@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/People/Lên kế hoạch theo tuần/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-30T11:16:31.003+07:00","updated":"2024-01-30T11:23:16.382+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/People/Lên kế hoạch theo tuần/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-30T17:26:53.333+07:00","updated":"2024-01-30T11:23:16.000+07:00"}
 ---
 
 # Lên kế hoạch theo tuần
