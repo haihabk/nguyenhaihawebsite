@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Cáp dùng cho hệ thống báo cháy/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T10:44:09.520+07:00","updated":"2024-01-19T10:46:56.614+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Cáp dùng cho hệ thống báo cháy/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T10:44:09.520+07:00","updated":"2024-01-31T16:31:54.646+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -22,3 +22,5 @@ _Để trả lời cho câu hỏi cáp trong hệ thống báo cháy có cần d
 ### _Trong TCVN 7568-14: 2015 có quy định như sau:_
 ![](https://i.imgur.com/yQ3zVgE.png)
 ==**_Vì vậy trong mọi trường hợp cáp chống cháy có thời gian 30 phút là đáp ứng yêu cầu của các tiêu chuẩn._**==
+hoa_qua = ["cherry", "dau tay"]
+danh_sach = fruits +hoa_qua
