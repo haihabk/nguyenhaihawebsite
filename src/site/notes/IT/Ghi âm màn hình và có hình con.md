@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/IT/Ghi âm màn hình và có hình con/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-31T15:33:48.726+07:00","updated":"2024-01-31T15:40:53.617+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/IT/Ghi âm màn hình và có hình con/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-31T17:59:37.006+07:00","updated":"2024-01-31T15:40:53.000+07:00"}
 ---
 
 
