@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-01-31T15:17:15.386+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-01T05:11:01.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -356,11 +356,10 @@ fruits.insert(0, "dua chuot")
 ![](https://i.imgur.com/WzNCPbu.png)
 
 ---
-## ==Remove item -with pop()==
-
+## ==Remove item -with pop()== 
+Bỏ đi một đối tượng ngoài cùng trong một list làm thế nào? #flashcard
 fruits.pop()   
 -> với hàm .pop nếu không đưa ra  vị trí thì nó sẽ bỏ đi phần tử cuối cùng.
-
 Ví dụ ta có chuỗi như sau:
 ![](https://i.imgur.com/2yIWxN3.png)
 ---
@@ -371,3 +370,21 @@ del fruits[0]
 
 xóa toàn bộ giỏ hàng fruits đi
 del fruits
+## ==Copy một list==  #flashcard 
+
+list2 = fruits.copy()
+---
+## ==Join 2 list== 
+Làm thế nào để joint được 2 list lại với nhau? #flashcard 
+![](https://i.imgur.com/GIiTTHl.png)
+---
+## Reverse order of a list : 
+Cách đảo lại thứ tự trong một list? #flashcard 
+fruits.reverse()
+![](https://i.imgur.com/v1xmUtG.png)
+---
+## Sort a list
+Làm thế nào để sort một list? #flashcard
+**fruits.sort()**
+![](https://i.imgur.com/XJ08YvL.png)
+---
