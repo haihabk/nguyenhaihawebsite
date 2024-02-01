@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Anki/Add on MINIMIZE TO TRAY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-24T16:01:36.349+07:00","updated":"2024-01-24T16:04:15.709+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Anki/Add on MINIMIZE TO TRAY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-24T18:48:20.070+07:00","updated":"2024-01-24T16:04:15.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
