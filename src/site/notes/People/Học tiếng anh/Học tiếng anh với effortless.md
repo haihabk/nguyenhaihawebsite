@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/People/Học tiếng anh/Học tiếng anh với effortless/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-31T09:55:12.255+07:00","updated":"2024-01-31T09:58:42.246+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/People/Học tiếng anh/Học tiếng anh với effortless/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-31T17:57:54.624+07:00","updated":"2024-01-31T09:58:42.000+07:00"}
 ---
 
 
