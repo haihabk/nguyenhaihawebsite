@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["MFD","mayphatdien","Generator","Cumin"],"Related":["ELT"],"date":"2023-12-26","URL":null,"Author":null,"dg-publish":true,"permalink":"/Electric Engineer/ELT/Tài liệu Máy phát điện Cummins/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:19.795+07:00","updated":"2023-12-26T16:38:32.000+07:00"}
+{"aliases":null,"tags":["MFD","mayphatdien","Generator","Cumin"],"Related":["ELT"],"date":"2023-12-26","URL":null,"Author":null,"dg-publish":true,"permalink":"/Electric Engineer/ELT/Tài liệu Máy phát điện Cummins/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-26T11:34:39.119+07:00","updated":"2023-12-26T16:38:32.483+07:00"}
 ---
 
 
