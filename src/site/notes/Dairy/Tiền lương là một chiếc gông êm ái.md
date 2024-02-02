@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"date":"2023-12-26","Author":"nguyễn hải hà","permalink":"/Dairy/Tiền lương là một chiếc gông êm ái/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:19.715+07:00","updated":"2023-12-29T19:10:27.000+07:00"}
+{"dg-publish":true,"date":"2023-12-26","Author":"nguyễn hải hà","permalink":"/Dairy/Tiền lương là một chiếc gông êm ái/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-26T09:54:56.473+07:00","updated":"2023-12-26T10:43:58.522+07:00"}
 ---
 
 
 ![stone, beach, pebble, balance, sea, zen, rock, stack, stones, nature, harmony, spa, water, sand, meditation, ocean, stability, calm, tranquil, sky, rocks, peace, heap, tower, pebbles ](https://images.unsplash.com/photo-1631277877896-4ce2b6770da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0fHxzdGFiaWxpdHl8ZW58MHwwfHx8MTcwMzU1OTc2OHww&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by [Dan Hadar](https://unsplash.com/@danhadar?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
-## Định nghĩa [[sự ổn định\|sự ổn định]] [[English2024/Newwords/stability\|stability]] 
+## Định nghĩa [[sự ổn định\|sự ổn định]] [[stability\|stability]] 
 
 Là chẳng có một cái gì gọi là ổn định cả.
 
