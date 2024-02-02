@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Dairy/Đo lường việc học/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-29T16:40:49.252+07:00","updated":"2024-01-29T11:48:44.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Dairy/Đo lường việc học/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-29T09:55:43.565+07:00","updated":"2024-01-29T11:48:44.244+07:00"}
 ---
 
 # Đo lường việc học và việc dạy con
