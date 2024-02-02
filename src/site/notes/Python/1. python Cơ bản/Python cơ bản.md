@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:12:03.133+07:00","updated":"2024-02-01T17:07:18.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-01T17:07:18.881+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
