@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.facebook.com/groups/814174316065190/user/100003241777998/","Author":"Thảo nguyễn","permalink":"/People/Quản lý tốt thời gian-cuộc sống bớt vội vang/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:27.896+07:00","updated":"2023-12-27T13:31:00.000+07:00"}
+{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.facebook.com/groups/814174316065190/user/100003241777998/","Author":"Thảo nguyễn","permalink":"/People/Quản lý tốt thời gian-cuộc sống bớt vội vang/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:47.748+07:00","updated":"2023-12-27T13:31:00.845+07:00"}
 ---
 
 # **QUẢN LÝ TỐT THỜI GIAN - CUỘC SỐNG BỚT VỘI VÀNG**
