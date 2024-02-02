@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/People/Học tiếng anh/Hành Trình học tiếng anh từ số 0 phần 3/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-31T17:57:54.607+07:00","updated":"2024-01-31T09:56:23.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/People/Học tiếng anh/Hành Trình học tiếng anh từ số 0 phần 3/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-31T09:56:06.283+07:00","updated":"2024-01-31T09:56:23.217+07:00"}
 ---
 
 # Hành Trình học tiếng anh từ số 0 phần 3
