@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["CCTV","IP-CAMERA"],"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"cover":null,"permalink":"/Electric Engineer/ELV/HỆ THỐNG CAMERA IP/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:00.863+07:00","updated":"2024-01-11T09:45:41.000+07:00"}
+{"aliases":null,"tags":["CCTV","IP-CAMERA"],"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"cover":null,"permalink":"/Electric Engineer/ELV/HỆ THỐNG CAMERA IP/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-09T15:42:47.795+07:00","updated":"2024-01-11T09:45:41.208+07:00"}
 ---
 
 #IP-CAMERA  #camera
