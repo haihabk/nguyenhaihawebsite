@@ -1,5 +1,5 @@
 ---
-{"tags":["Lightning","calculationlightning"],"dg-publish":true,"date":"2023-12-22","url":"https://docs.google.com/document/d/1XjSN3_-uwJaoKv6XkUcLO-ucTZN_CgcB/edit?usp=sharing&ouid=108456636918598274584&rtpof=true&sd=true","aliases":null,"Related":"ELT","permalink":"/Electric Engineer/ELT/Tính toán hệ thống nối đất/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:19.769+07:00","updated":"2023-12-25T15:30:15.000+07:00"}
+{"tags":["Lightning","calculationlightning"],"dg-publish":true,"date":"2023-12-22","url":"https://docs.google.com/document/d/1XjSN3_-uwJaoKv6XkUcLO-ucTZN_CgcB/edit?usp=sharing&ouid=108456636918598274584&rtpof=true&sd=true","aliases":null,"Related":"ELT","permalink":"/Electric Engineer/ELT/Tính toán hệ thống nối đất/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-22T16:37:43.714+07:00","updated":"2023-12-25T15:30:15.559+07:00"}
 ---
 
 ###### Dựa theo tiêu chuẩn IEC-62305-2 (2010)
