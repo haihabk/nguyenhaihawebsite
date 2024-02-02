@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":"2023-12-27","URL":null,"Author":"Mai Uyên Hương","dg-publish":true,"image":"https://images.unsplash.com/photo-1465343161283-c1959138ddaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzA0MzQ0ODE5fDA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/People/ĐIỀU GÌ CẢN TRỞ BẠN TIẾN BỘ/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:12.980+07:00","updated":"2024-02-01T16:10:32.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":"2023-12-27","URL":null,"Author":"Mai Uyên Hương","dg-publish":true,"image":"https://images.unsplash.com/photo-1465343161283-c1959138ddaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxpbXByb3ZlbWVudHxlbnwwfDB8fHwxNzA0MzQ0ODE5fDA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/People/ĐIỀU GÌ CẢN TRỞ BẠN TIẾN BỘ/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-27T08:23:43.866+07:00","updated":"2024-02-01T16:10:32.285+07:00"}
 ---
 
 
