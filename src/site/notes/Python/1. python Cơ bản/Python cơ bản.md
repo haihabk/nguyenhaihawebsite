@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-02T17:00:12.623+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-02T17:47:42.191+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -491,3 +491,19 @@ not False :: Kết quả là True
 <span style="background:#40a9ff">chuyển tuple -> list ; khi đó ta đối thành phần trong list -> Rồi lại chuyển list đó thành tuple.</span>
 
 ![](https://i.imgur.com/dvAPGrM.png)
+<span style="background:#ff4d4f"># Bài 11 Làm việc với Set trong Python </span>
+## set in python : unordered and unindexed, curly brackets 
+
+![](https://i.imgur.com/dD2aMd6.png)
+![](https://i.imgur.com/TLPg29e.png)
+---
+![](https://i.imgur.com/SBnHsxV.png)
+![](https://i.imgur.com/N7dwaPZ.png)
+![](https://i.imgur.com/IGmbLMI.png)
+
+
+
+```python
+x =5
+x +=2
+```
