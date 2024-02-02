@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/People/Học tiếng anh/Nghe chép chính tả/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-01T17:15:27.806+07:00","updated":"2024-02-01T15:22:48.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/People/Học tiếng anh/Nghe chép chính tả/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-01T15:22:04.218+07:00","updated":"2024-02-01T15:22:48.933+07:00"}
 ---
 
 # Nghe chép chính tả
