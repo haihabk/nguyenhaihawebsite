@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-05T15:19:57.704+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-05T17:14:33.696+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -605,3 +605,125 @@ for x in laptop.values():
 
 kết quả thu được :
 ![](https://i.imgur.com/tgPrMw8.png)
+
+## <span style="background:#40a9ff">CHECK IF KEY EXISTS IN DICTIONARY</span>
+```python
+laptop = {"brand": "Lenovo","model":"Thinkpad X1 6"  ,"year":2019} 
+print("brand" in laptop)
+
+```
+
+![](https://i.imgur.com/b9Ym4Tz.png)
+## <span style="background:#40a9ff">Add key, value pair</span>
+```python
+laptop = {"brand": "Lenovo","model":"Thinkpad X1 6"  ,"year":2019} 
+laptop["color"] = "black"
+print(laptop)
+
+```
+### Kết quả :![](https://i.imgur.com/leySj1E.png)
+
+## <span style="background:#40a9ff">Bỏ- Revmove value</span>
+```python
+laptop = {"brand": "Lenovo","model":"Thinkpad X1 6"  ,"year":2019, "color": "Black"} 
+laptop.pop("color")
+print(laptop)
+
+```
+### Kết quả:
+![](https://i.imgur.com/vDFv4FJ.png)
+## Copy một dictionary
+dict2 = dict(laptop)
+
+## nested dictionary
+```python
+ibm = {
+	"model1": {"name": "Think pad X1", "screensize": 14},
+	"modell2": {"name": "Think pad X270", "screensize": 12.5}
+
+}
+```
+### Access vào name của model1 ?
+
+```python
+ibm = {
+ "model1": {"name": "Think pad X1", "screensize": 14}, 
+"model2": {"name": "Think pad X270", "screensize": 12.5}}
+
+print(ibm["model1"]["name"])
+```
+
+![](https://i.imgur.com/6QrVUJo.png)
+---
+<span style="background:#9254de"># Bài 13 Câu lệnh rẽ nhánh If  ELIF ELSE trong python</span>
+
+```ad-info
+Ở bài này mình sẽ kiểm tra độ dài một chuỗi. sau đó nếu quá ngắn/quá dài thì sẽ trả về một thông báo ( if then else)
+```
+## kiểm tra độ dài một chuỗi
+```python
+input = input("Hay nhap so tuoi cua ban") # trường hợp này khi nhập vào thì số tuổi nhập vào là một string. Ta cần chuyển sang dạng interger để kiểm tra nên có câu lệnh sau đây  
+age = int(input)  
+if age < 16:  
+    print("Ban khong du tuoi de tham gia chuong trinh nay")
+
+```
+
+
+```ad-info
+Chúng ta viết một chương trình nhập vào một con số, và kiểm tra số đó là số chẵn hay số lẻ.
+```
+
+![](https://i.imgur.com/4qibP7z.png)
+
+```ad-info
+viết một chương trình kiểm tra tam giác đều, cân thường
+<span style="color:#000000">tam giác đều thì a = b =c 
+tam giác cân thì a =b , b=c, a=c
+tam giác thường thì a,b,c sẽ khác nhau</span>
+```
+
+```python
+a = float(input("nhap canh a\n"))  
+b = float(input("nhap canh b\n"))  
+c = float(input("nhap canh c\n"))  
+if a == b and b == c and a ==c:  
+  
+    print("day la tam giac deu")  
+elif a !=b and b != c and a != c:  
+    print("day la mot tam giac thuong")  
+else:  
+    print("day la mot tam giac can")
+```
+
+Kết quả là :
+
+![](https://i.imgur.com/Q6QF5TQ.png)
+
+Nhưng bài tập trên vẫn chưa đúng. vì điều kiện để có một tam giác phải thêm điều kiện 
+a + b >c 
+a+ c > b
+b+c > a
+
+Thêm điều kiện trên như nào được nhỉ?
+
+
+
+## Bài tập 1: 
+### In số lớn hơn : cho a = 4, b = 6, viết câu lệnh IF để in ra số lớn hơn
+mình tự viết - haha sai luôn rồi
+```python
+a = 4
+b = 6
+if a > b
+	print(a)
+Else:
+	print(b)
+```
+
+Đúng ở đây.
+
+
+vì a là một sô interger thì ta phải chuyển nó sang dạng str đã
+
+![](https://i.imgur.com/zWsg6H9.png)
