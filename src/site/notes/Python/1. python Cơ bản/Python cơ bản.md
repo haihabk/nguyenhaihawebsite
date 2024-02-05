@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-02T17:47:42.191+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-05T15:19:57.704+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -502,8 +502,106 @@ not False :: Kết quả là True
 ![](https://i.imgur.com/IGmbLMI.png)
 
 
+<span style="background:#40a9ff">### Remove một đối tượng ở trong set</span>
 
-```python
-x =5
-x +=2
+![](https://i.imgur.com/OpMiWko.png)
+### Ngoài cách sử dụng remove thì chúng ta còn một cách nữa là dùng <span style="background:#ff4d4f">DISCARD</span>  để loại một phần tử ra khỏi set
+
+![](https://i.imgur.com/TS8mXiy.png)
+
+
+```ad-question
+Vậy thì REMOVE và discard khác nhau ở chỗ nào ?
 ```
+
+![](https://i.imgur.com/GthP3r5.png)
+
+![](https://i.imgur.com/KrhU3qi.png)
+
+
+<span style="background:#40a9ff">## Nối 2 set </span>
+
+>>> set1 = {"a","b","c"}                                              
+>>> set2 = {"d","e"}
+>>> set1.<span style="color:#000000"><span style="color:#000000">union</span></span>(set2)
+{'b', 'd', 'a', 'e', 'c'}
+
+
+![](https://i.imgur.com/X8vuzTS.png)
+
+
+```ad-note
+Giẳ sử ta có set3 ={1,2,3,a,b,c}
+
+Bây giờ ta Union (ghép ) với set4 = {2,3,4} -> Tức là có giá trị: 2,3 trùng nhau thì khi ghép vào chúng sẽ không add trùng nữa. Ta sẽ có kết quả 
+set5={1,2,3,4,a,b,c}
+
+Dưới đây là hình minh họa:
+![](https://i.imgur.com/iUuTPb3.png)
+
+```
+
+# Bài 12 Làm việc với dictation trong python
+## Python dictionary: unordered, changeable and indexed:
+
+kiểu dữ liệu dictionnayry được khai báo như sau 
+
+
+<span style="background:#9254de">Ten_biến = { "key" : "value"} </span>
+---
+
+```python 
+laptop = {"brand": "Lenovo","model":"Thinkpad X1 6"
+		  ,"year":2019}
+print(type(laptop))
+print(laptop)
+```
+## Access dictionary item
+
+```python  
+laptop = {"brand": "Lenovo","model":"Thinkpad X1 6"  ,"year":2019}    
+print(laptop["brand"])
+print(laptop["model"])
+```
+CÁCH 2 : DÙNG <span style="background:#ff4d4f">GET</span>
+
+
+```python  
+laptop = {"brand": "Lenovo","model":"Thinkpad X1 6"  ,"year":2019} 
+print(laptop.get("brand"))
+print(laptop.get("year"))
+# laptop.get("year") = 2020 , không hỗ trợ đổi năm). Nếu muốn đổi phải làm như sau:
+# laptop["year"] = 2020
+print(laptop)
+
+```
+![](https://i.imgur.com/LBMfdTn.png)
+
+
+### Print key, value of laptop dictionary
+```python
+laptop = {"brand": "Lenovo","model":"Thinkpad X1 6"  ,"year":2019} 
+for x in laptop:
+ print(x, laptop[x])
+```
+<span style="background:#40a9ff">KẾT QUẢ :</span>
+
+![](https://i.imgur.com/EnerqL3.png)
+
+![](https://i.imgur.com/s6ixe0K.png)
+
+
+#### <span style="background:#40a9ff">Print all values of laptop dictionary</span>
+```python
+laptop = {"brand": "Lenovo","model":"Thinkpad X1 6"  ,"year": 2019} 
+# print(laptop.get("brand"))
+# print(laptop.get("year"))
+# laptop.get("year") = 2020 , không hỗ trợ đổi năm). Nếu muốn đổi phải làm như sau:
+# laptop["year"] = 2020
+# print(laptop)
+for x in laptop.values():
+ print(x)
+```
+
+kết quả thu được :
+![](https://i.imgur.com/tgPrMw8.png)
