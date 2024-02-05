@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-05T17:14:33.696+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-05T17:31:56.171+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -723,7 +723,41 @@ Else:
 
 Đúng ở đây.
 
-
+```python
+a = 4
+b = 6
+if a > b
+	print("day la so lon hon: " + str(a))
+Else:
+	print("day la so lon hon: " + str(b))
+```
 vì a là một sô interger thì ta phải chuyển nó sang dạng str đã
 
 ![](https://i.imgur.com/zWsg6H9.png)
+## Bài tập 2: 
+### Viết chương trình cho phép người dùng nhập vào chiều dài 2 cạnh của hình chữ nhật . In ra thông báo nếu là hình vuông hay hình chữ nhật và tính diện tích của hình.
+
+<span style="background:#ff4d4f">Đây là bài Hà tự làm</span>
+
+```python
+chieu_dai = input(float("Nhap vao chieu dai hinh chu nhat\n"))
+chieu_rong = input(float("Nhap vao chieu rong hinh chu nhat\n"))
+dien_tich = chieu_dai ** chieu_rong
+if chieu_dai == chieu_rong:
+	print("Day la hinh vuong có dien tich là " + str(dien_tich))
+else: 
+	print("Day la hinh chu nhat có dien tich là " + str(dien_tich))
+```
+
+há há, sai rồi.
+<span style="background:#40a9ff">Sử lại thôi </span>
+
+```python
+chieu_dai = float(input("Nhap vao chieu dai hinh chu nhat\n"))
+chieu_rong = float(input("Nhap vao chieu rong hinh chu nhat\n"))
+dien_tich = chieu_dai * chieu_rong
+if chieu_dai == chieu_rong:
+	print("Day la hinh vuong có dien tich là " + str(dien_tich))
+else: 
+	print("Day la hinh chu nhat có dien tich là " + str(dien_tich))
+```
