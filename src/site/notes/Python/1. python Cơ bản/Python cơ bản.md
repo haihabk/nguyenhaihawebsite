@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-05T17:31:56.171+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-06T11:46:17.072+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -20,7 +20,7 @@ Tags: #python
 ![](https://i.imgur.com/dV9BT8t.png)
 
 ---
-# <span style="background:#40a9ff">Bài 2 Comment code trong python</span>
+# Bài 2 Comment code trong python
 
 ```ad-hint
 # Tại sao cần comments- > để xem lại và dễ hiểu được các đoạn code
@@ -466,7 +466,10 @@ not True :: Kết quả là False
 not False :: Kết quả là True 
 <span style="background:#40a9ff">## Membership operators :  in, not in  </span>
 ![](https://i.imgur.com/IcXRQZc.png)
-<span style="background:#40a9ff"><span style="background:#ff4d4f"># Bài 10 Làm việc với Tupe trong python </span></span>
+
+---
+
+# Bài 10 Làm việc với Tupe trong python </span></span>
 
 ## Ta có một list như sau 
 
@@ -491,7 +494,7 @@ not False :: Kết quả là True
 <span style="background:#40a9ff">chuyển tuple -> list ; khi đó ta đối thành phần trong list -> Rồi lại chuyển list đó thành tuple.</span>
 
 ![](https://i.imgur.com/dvAPGrM.png)
-<span style="background:#ff4d4f"># Bài 11 Làm việc với Set trong Python </span>
+# Bài 11 Làm việc với Set trong Python </span>
 ## set in python : unordered and unindexed, curly brackets 
 
 ![](https://i.imgur.com/dD2aMd6.png)
@@ -655,7 +658,7 @@ print(ibm["model1"]["name"])
 
 ![](https://i.imgur.com/6QrVUJo.png)
 ---
-<span style="background:#9254de"># Bài 13 Câu lệnh rẽ nhánh If  ELIF ELSE trong python</span>
+# Bài 13 Câu lệnh rẽ nhánh If  ELIF ELSE trong python
 
 ```ad-info
 Ở bài này mình sẽ kiểm tra độ dài một chuỗi. sau đó nếu quá ngắn/quá dài thì sẽ trả về một thông báo ( if then else)
@@ -761,3 +764,130 @@ if chieu_dai == chieu_rong:
 else: 
 	print("Day la hinh chu nhat có dien tich là " + str(dien_tich))
 ```
+
+# Bài 14 Vòng Lặp For trong python 
+
+```ad-info
+For trong python dùng để lặp qua nhiều kiểu dữ liệu : list, tupe, set, dictionary, string..
+```
+
+```python
+fruits = ["chuoi" , "tao", "le" ]
+for fruit in fruits:
+	print(fruit)
+message = "HELLO"
+for c in message:
+	print(c)
+```
+<span style="background:#ff4d4f">KẾT QUẢ ĐÂY:</span>
+![](https://i.imgur.com/BWCOX9h.png)
+
+```ad-info
+Sẽ lặp một chuỗi, và kiểm tra từng ký tự , nếu chữ cái bằng chữ l thì ta sẽ dừng lại thì làm thế nào?
+```
+
+```python
+message = "HELLO"
+for c in message:
+	if c == "L":
+		print("Da tim thay")
+		break
+```
+
+Chạy code và kết quả là:
+![](https://i.imgur.com/81dTyMo.png)
+
+Ngược với break- ở phần trên nếu vẫn muốn tiếp tục hàm for thì ta làm thế nào 
+
+```ad-note ví dụ ta muốn in 3 lần chữ HELLO
+THÌ LÀM THẾ NÀO?
+```
+
+```python
+for x in range(3):
+	print("Hello")
+```
+<span style="background:#ff4d4f"> range(3) : được hiểu lầ 0,1,2</span>
+Ta có thể in thêm số thứ tự của những thành phần bên trên.
+
+```python
+for x in range (3):
+	print("Hello " + str(x))
+```
+
+```python
+for x in range(10,20):  # bao gồm 10 đến 19, không bao gồm 20.
+	print(x)
+```
+
+<span style="background:#ff4d4f">IN RA SỐ LẺ TỪ 1 ĐẾN 20 THÌ LÀM THẾ NÀO?</span>
+	in số lẻ từ 1-20, step là 2
+```python
+for x in range(1,20,2):
+	print(x)
+```
+
+
+```python
+fruits = ["chuoi" , "tao", "le" ]
+prices = [2, 3, 4]
+for fruit in fruits:
+	for price in prices:
+		print(fruit, price)
+```
+
+chạy code thu được kết quả:
+giải thích kết quả một chút :
+	- Ở vòng lặp đầu tiên, chuối đi vào vòng lặp thì nó sẽ in ra với 3 kết quả với price.
+	
+![](https://i.imgur.com/oT70xy9.png)
+
+
+Trong trường hợp mà chúng ta muốn : giả sử gặp một đối tượng nào đó nó sẽ nhảy ra khỏi vòng lặp thì làm sao.
+
+```python
+for i in [1,2,3,4]:
+	pass
+```
+
+# Bài 15 Vòng lặp White Loop trong Python 
+```python
+i = 1
+while i < 6:
+	print(i)
+	i  += 1
+```
+ Giải thích : khi i bằng i thì so sánh với 6. Nếu nhỏ hơn thì in ra i. rồi tiếp tục cộng thêm 1 và tiếp tục so sánh.
+
+
+Ở ví dụ trên thì đến số 5 là điều kiện trên kết thúc. Nhưng nếu ở ví dụ khác mà số 6 kia lớn, thì nó sẽ rơi vaofa một vòng lặp vô tận. VẬY PHẢI NGẮT HOẶC DỪNG VÒNG LẶP TRÊN BẰNG CÁCH NÀO?. thêm vào <span style="background:#ff4d4f">break </span>
+
+![](https://i.imgur.com/K7ZTnRq.png)
+ đến khi i = 3 thì sẽ không lặp nữa. -> Tức là hàm này luôn luôn đùng- thì vòng lặp này không dừng được-> vậy phải tăng i lên.
+
+```python
+i = 1
+while i < 6:
+	if i == 3:
+		 break 
+	i +=1
+	print(i)
+```
+
+kết quả sau khi chạy;
+
+![](https://i.imgur.com/3VLtLBS.png)
+
+- Khi kết thúc vòng lặp thì ta chạy thêm một đoạn code nữa 
+ví dụ như sau
+
+```python
+i = 1
+while i < 6:
+	print(i)
+	i +=1
+else:
+	print("kết thúc vòng lặp")
+```
+
+kết quả :![](https://i.imgur.com/UXmprN8.png)
