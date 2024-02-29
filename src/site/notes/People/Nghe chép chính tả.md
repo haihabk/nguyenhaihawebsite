@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/People/Nghe chép chính tả/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-29T17:28:34.328+07:00","updated":"2024-01-29T17:29:42.081+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/People/Nghe chép chính tả/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:29.916+07:00","updated":"2024-01-29T17:29:42.000+07:00"}
 ---
 
 # Nghe chép chính tả
