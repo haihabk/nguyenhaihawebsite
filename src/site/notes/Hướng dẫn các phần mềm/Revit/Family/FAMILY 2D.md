@@ -1,5 +1,5 @@
 ---
-{"tags":["Revit","family2d","family"],"aliases":"revit family 2d","dg-publish":true,"permalink":"/Hướng dẫn các phần mềm/Revit/Family/FAMILY 2D/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-07T15:06:28.562+07:00","updated":"2023-12-27T10:36:24.332+07:00"}
+{"tags":["Revit","family2d","family"],"aliases":"revit family 2d","dg-publish":true,"permalink":"/Hướng dẫn các phần mềm/Revit/Family/FAMILY 2D/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T10:10:04.988+07:00","updated":"2023-12-27T10:36:24.000+07:00"}
 ---
 
 
