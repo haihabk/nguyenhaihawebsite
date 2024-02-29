@@ -1,5 +1,5 @@
 ---
-{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"banner":"https://images.unsplash.com/photo-1603398737422-a6b2a2ff297f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600","permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Nỗi sợ/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:46.893+07:00","updated":"2023-12-21T17:56:41.159+07:00"}
+{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"banner":"https://images.unsplash.com/photo-1603398737422-a6b2a2ff297f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600","permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/Nỗi sợ/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:51.884+07:00","updated":"2023-12-21T17:56:41.000+07:00"}
 ---
 
 ( Đây là một số điều mình thấy hay khi đọc cuốn sách : Ai  lấy miếng Pho mát của tôi).
