@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Status":["Not yet"],"Tag":[],"Hoàn thành":false,"permalink":"/Haiha's Sharing Ideal/Hướng dẫn dùng linter để thêm hàng loạt properties vào các files mới trong obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-21T17:04:18.552+07:00","updated":"2023-12-29T11:01:38.642+07:00"}
+{"dg-publish":true,"Status":["Not yet"],"Tag":[],"Hoàn thành":false,"permalink":"/Haiha's Sharing Ideal/Hướng dẫn dùng linter để thêm hàng loạt properties vào các files mới trong obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:48.790+07:00","updated":"2023-12-29T11:01:38.000+07:00"}
 ---
 
 
