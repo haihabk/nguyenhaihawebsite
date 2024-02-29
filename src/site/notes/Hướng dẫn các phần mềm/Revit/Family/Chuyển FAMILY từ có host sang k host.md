@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Revit","family","host"],"permalink":"/Hướng dẫn các phần mềm/Revit/Family/Chuyển FAMILY từ có host sang k host/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-07T15:06:28.560+07:00","updated":"2023-12-27T10:35:02.525+07:00"}
+{"dg-publish":true,"tags":["Revit","family","host"],"permalink":"/Hướng dẫn các phần mềm/Revit/Family/Chuyển FAMILY từ có host sang k host/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T10:10:04.980+07:00","updated":"2023-12-27T10:35:02.000+07:00"}
 ---
 
 
