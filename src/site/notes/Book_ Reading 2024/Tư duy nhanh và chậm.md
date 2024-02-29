@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/Book_ Reading 2024/Tư duy nhanh và chậm/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-02T11:29:58.584+07:00","updated":"2024-02-02T12:20:34.399+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/Book_ Reading 2024/Tư duy nhanh và chậm/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:57:36.306+07:00","updated":"2024-02-02T12:20:34.000+07:00"}
 ---
 
 # Tư duy nhanh và chậm
