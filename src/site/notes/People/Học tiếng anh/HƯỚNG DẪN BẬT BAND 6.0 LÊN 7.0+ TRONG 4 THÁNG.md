@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/People/Học tiếng anh/HƯỚNG DẪN BẬT BAND 6.0 LÊN 7.0+ TRONG 4 THÁNG/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-31T12:54:05.080+07:00","updated":"2024-01-31T12:55:11.041+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/People/Học tiếng anh/HƯỚNG DẪN BẬT BAND 6.0 LÊN 7.0+ TRONG 4 THÁNG/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:57:51.866+07:00","updated":"2024-01-31T12:55:11.000+07:00"}
 ---
 
 # Untitled
