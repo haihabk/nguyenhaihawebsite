@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Public Address/Bài 9 đọc bản vẽ publich address/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-17T14:04:39.447+07:00","updated":"2024-01-19T13:32:55.544+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Public Address/Bài 9 đọc bản vẽ publich address/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:33.146+07:00","updated":"2024-01-19T13:32:55.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
