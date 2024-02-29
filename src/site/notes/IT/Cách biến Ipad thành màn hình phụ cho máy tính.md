@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/IT/Cách biến Ipad thành màn hình phụ cho máy tính/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-31T15:45:19.995+07:00","updated":"2024-01-31T15:58:08.676+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"dg-publish":true,"image":null,"permalink":"/IT/Cách biến Ipad thành màn hình phụ cho máy tính/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:57:36.233+07:00","updated":"2024-01-31T15:58:08.000+07:00"}
 ---
 
 # Cách biến Ipad thành màn hình phụ cho máy tính
