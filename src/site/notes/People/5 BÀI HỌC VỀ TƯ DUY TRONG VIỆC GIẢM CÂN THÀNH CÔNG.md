@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/People/5 BÀI HỌC VỀ TƯ DUY TRONG VIỆC GIẢM CÂN THÀNH CÔNG/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-27T12:59:26.068+07:00","updated":"2024-01-04T11:55:30.574+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/People/5 BÀI HỌC VỀ TƯ DUY TRONG VIỆC GIẢM CÂN THÀNH CÔNG/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.508+07:00","updated":"2024-01-04T11:55:30.000+07:00"}
 ---
 
 author:: [[Attachment_NHH/System/Author/Phạm Lê Phương\|Phạm Lê Phương]]
