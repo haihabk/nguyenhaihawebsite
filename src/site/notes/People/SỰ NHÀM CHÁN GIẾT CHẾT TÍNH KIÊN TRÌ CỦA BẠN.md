@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["thói-quen ","habit"],"Related":null,"date":null,"URL":null,"Author":"Hải Phượng Lê","dg-publish":true,"permalink":"/People/SỰ NHÀM CHÁN GIẾT CHẾT TÍNH KIÊN TRÌ CỦA BẠN/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-27T13:14:34.769+07:00","updated":"2023-12-27T13:32:08.380+07:00"}
+{"aliases":null,"tags":["thói-quen ","habit"],"Related":null,"date":null,"URL":null,"Author":"Hải Phượng Lê","dg-publish":true,"permalink":"/People/SỰ NHÀM CHÁN GIẾT CHẾT TÍNH KIÊN TRÌ CỦA BẠN/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.470+07:00","updated":"2023-12-27T13:32:08.000+07:00"}
 ---
 
 author:: [[Attachment_NHH/System/Author/Hải Phượng Lê\|Hải Phượng Lê]]
