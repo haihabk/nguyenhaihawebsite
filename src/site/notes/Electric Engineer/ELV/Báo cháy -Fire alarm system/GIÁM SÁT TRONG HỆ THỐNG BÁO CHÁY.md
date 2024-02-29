@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/GIÁM SÁT TRONG HỆ THỐNG BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T10:27:40.755+07:00","updated":"2024-01-19T10:36:15.852+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/GIÁM SÁT TRONG HỆ THỐNG BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:33.192+07:00","updated":"2024-01-19T10:36:15.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
