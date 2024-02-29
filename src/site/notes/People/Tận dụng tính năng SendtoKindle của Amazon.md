@@ -1,5 +1,5 @@
 ---
-{"created":"2024-01-18T10:58:15.914+07:00","tags":null,"source":"https://www.facebook.com/groups/yeukindlevietnam/permalink/2124703681212265/?mibextid=W9rl1R","author":null,"dg-publish":true,"permalink":"/People/Tận dụng tính năng SendtoKindle của Amazon/","dgPassFrontmatter":true,"noteIcon":"2","updated":"2024-01-24T13:00:34.354+07:00"}
+{"created":"2024-02-29T09:58:33.021+07:00","tags":null,"source":"https://www.facebook.com/groups/yeukindlevietnam/permalink/2124703681212265/?mibextid=W9rl1R","author":null,"dg-publish":true,"permalink":"/People/Tận dụng tính năng SendtoKindle của Amazon/","dgPassFrontmatter":true,"noteIcon":"2","updated":"2024-01-24T13:00:34.000+07:00"}
 ---
 
 Source :https://www.facebook.com/groups/yeukindlevietnam/permalink/2124703681212265/?mibextid=W9rl1R
