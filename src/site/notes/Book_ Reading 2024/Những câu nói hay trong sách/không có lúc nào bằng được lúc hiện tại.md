@@ -1,5 +1,5 @@
 ---
-{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/không có lúc nào bằng được lúc hiện tại/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-15T08:45:47.061+07:00","updated":"2023-12-21T17:56:41.126+07:00"}
+{"Cover":null,"Book_name":null,"tags":null,"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/Book_ Reading 2024/Những câu nói hay trong sách/không có lúc nào bằng được lúc hiện tại/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:51.776+07:00","updated":"2023-12-21T17:56:41.000+07:00"}
 ---
 
 Chỉ trong lúc hiện tại mới có năng lực. Người nào không thực hành ngay những quyết định của mình thì không có hy vọng gì thực hành nó về sau. Những quyết định đó sẽ bị tiêu tan trong sự gấp rút củ đời sống hằng ngày và sẽ chìm trong vũng bùn của tính uể oải.
