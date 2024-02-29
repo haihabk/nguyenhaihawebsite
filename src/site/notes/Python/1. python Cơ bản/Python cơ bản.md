@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T17:11:56.627+07:00","updated":"2024-02-06T11:46:17.072+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"TARGET DECK":"python2025","permalink":"/Python/1. python Cơ bản/Python cơ bản/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:30.011+07:00","updated":"2024-02-28T15:07:10.000+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -395,6 +395,8 @@ Làm thế nào để sort một list?
 ## Assigment operators: =, +=, -=
 
 ### ==x += 2 Có nghĩa là gì?== :: Tăng X lên 2<span style="background:#ff4d4f"> đơn vị</span>
+<!--ID: 1709107630602-->
+
 
 là lấy x cộng thêm 2 và trả về kết quả.
 ==ví dụ:== 
@@ -403,6 +405,8 @@ x +=2
 >>> 7
 
 ### x -= 2 Có nghĩa gì? :: # giảm x đi 2 đơn vị
+<!--ID: 1709107630608-->
+
 
 là lấy giá trị đó trừ đi và trả về kết quả.
 ==Ví dụ==
@@ -452,20 +456,34 @@ kết quả trả về là False
 <span style="background:#40a9ff">## Logical operators : and, or, not </span>
 
 True and True :: Kết quả True 
+<!--ID: 1709107630615-->
+
 
 True or False ::  Kết quả True
+<!--ID: 1709107630621-->
+
 
 False or True :: Kết quả True 
+<!--ID: 1709107630628-->
+
 False and True :: Kết quả False 
+<!--ID: 1709107630634-->
+
 True and False :: Kết quả False 
+<!--ID: 1709107630641-->
+
 
 ### not sẽ biến True thành False và ngược lại 
 
 
 not True :: Kết quả là False 
+<!--ID: 1709107630648-->
+
 not False :: Kết quả là True 
 <span style="background:#40a9ff">## Membership operators :  in, not in  </span>
 ![](https://i.imgur.com/IcXRQZc.png)
+<!--ID: 1709107630654-->
+
 
 ---
 
@@ -891,3 +909,70 @@ else:
 ```
 
 kết quả :![](https://i.imgur.com/UXmprN8.png)
+
+
+# Bài  16 Làm việc với function trong python 
+
+Nhắc lại phần tên biến.
+
+Tên biến hợp lệ
+Tên biến không hợp lệ:
+	- bắt đầu bằng số, 
+	- chứa ký tự đặc biệt.
+	- chứa dấu gạch ngang
+	- chứa khoảng trắng.
+![](https://i.imgur.com/ot4YUbi.png)
+
+
+```ad-info
+# viết chương trình function để đổi từ inch sang cm
+```
+
+![](https://i.imgur.com/31QsxDH.png)
+
+```python
+def convert_cm(inches = 0, feet = 0):  # keyword argerguments
+	inches_to_cm = 2.54 * inches
+	feet_to_cm = 2.54 * 12 * feet
+	return feet_to_cm + inches_to_cm
+print(convert_cm(inches = 1))
+print(convert_cm(feet = 1))
+print(convert_cm(inches=1, feet=1))
+	
+```
+![](https://i.imgur.com/EvTHTsm.png)
+
+
+
+```ad-info
+# viết chương trình function để tính diện tích hình tròn bán kính r
+```
+
+```python
+def dien_tich_hinh_tron(r): # r is required argument
+	s = 3.14 * r ** 2
+	return s
+dien_tich = dien_tich_hinh_tron(10)
+print(dien_tich)
+```
+
+![](https://i.imgur.com/DHNxrhB.png)
+
+# Bài 17  Luyện tập vòng lặp For và câu điều kiện IF
+
+```ad-todo
+# ❓ Lập danh sách những số chia hết cho 7 nhưng không chia hết cho 5
+# ❓Trong khoảng 2000 đến 3200 ( bao gồm cả 2000 và 3200)
+```
+
+```python
+result = []
+for i in range(2000, 3201):
+	if (i % 7 == 0) and (i % 5 != 0):
+		result.append(i)
+print(result)
+```
+
+KẾT QUẢ THU ĐƯỢC:
+
+![](https://i.imgur.com/QAAKkdi.png)
