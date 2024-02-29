@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["CCTV"],"Related":["ELV"],"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/Electric Engineer/ELV/Hệ thống CCTV/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-26T16:30:34.586+07:00","updated":"2024-01-09T15:42:40.380+07:00"}
+{"aliases":null,"tags":["CCTV"],"Related":["ELV"],"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/Electric Engineer/ELV/Hệ thống CCTV/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:48.951+07:00","updated":"2024-01-09T15:42:40.000+07:00"}
 ---
 
 ### [[Homepage\|Quay Lại👈]]
