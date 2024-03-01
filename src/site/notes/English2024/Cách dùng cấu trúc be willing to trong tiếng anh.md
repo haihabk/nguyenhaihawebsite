@@ -1,9 +1,11 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://zim.vn/cau-truc-be-willing-to","Author":null,"dg-publish":true,"permalink":"/English2024/Cách dùng cấu trúc be willing to trong tiếng anh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:49.007+07:00","updated":"2023-12-25T17:54:50.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://zim.vn/cau-truc-be-willing-to","Author":null,"dg-publish":true,"permalink":"/English2024/Cách dùng cấu trúc be willing to trong tiếng anh/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:49.007+07:00","updated":"2024-03-01T16:22:33.222+07:00"}
 ---
 
  [[Author\|Author]] ::
 [[url\|url]] ::  
+<!--ID: 1709284952695-->
+
 
 ![](https://i.imgur.com/QJMF5EE.png)
 ## Be willing to là gì?
