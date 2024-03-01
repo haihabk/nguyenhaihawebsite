@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.facebook.com/groups/814174316065190/user/100003241777998/","Author":"Thảo nguyễn","permalink":"/People/Quản lý tốt thời gian-cuộc sống bớt vội vang/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:51.678+07:00","updated":"2023-12-27T13:31:00.000+07:00"}
+{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.facebook.com/groups/814174316065190/user/100003241777998/","Author":"Thảo nguyễn","permalink":"/People/Quản lý tốt thời gian-cuộc sống bớt vội vang/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:51.678+07:00","updated":"2024-03-01T16:22:33.187+07:00"}
 ---
 
 # **QUẢN LÝ TỐT THỜI GIAN - CUỘC SỐNG BỚT VỘI VÀNG**
 author :: [[Attachment_NHH/System/Author/Thảo nguyễn\|Thảo nguyễn]]
 url ::https://www.facebook.com/groups/814174316065190/user/100003241777998/
+<!--ID: 1709284952637-->
+
  
 ---
 ![](https://i.imgur.com/sUt959i.png)
