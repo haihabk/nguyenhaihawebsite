@@ -1,5 +1,5 @@
 ---
-{"TARGET DECK":"Book_Cloze","dg-publish":true,"permalink":"/Book_ Reading 2024/Bạn đắt giá bao nhiêu/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-04T12:49:11.841+07:00","updated":"2024-03-04T16:37:20.206+07:00"}
+{"TARGET DECK":"Book_Cloze","dg-publish":true,"permalink":"/Book_ Reading 2024/Bạn đắt giá bao nhiêu/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-04T12:49:11.841+07:00","updated":"2024-03-05T09:24:28.711+07:00"}
 ---
 
 ## Sự thỏa hiệp có làm bạn hạnh phúc
@@ -20,5 +20,10 @@ Khi trưởng thành, tôi hiểu ra rằng, có một số kẻ chỉ tạm th�
 <!--ID: 1709533918694-->
 Tớ có phải nhân dân tệ đâu mà ai cũng thích tớ, dù tớ có là nhân dân tệ thì cũng có người chỉ thích đô la Mỹ, thích đồng Euro, thế nên tớ chẳng cần tất cả mọi người phải thích tớ."
 
- 
+ ## Quan điểm khác đừng cố ==tranh cãi==
+ Quan niệm mỗi người bị ảnh hưởng lớn bởi hoàn cảnh cuộc sống và những chuyện họ từng trải qua, không ai có thể thay đổi ==quan niệm== mà họ theo đuổi suốt mấy chục năm chỉ vì đôi ba câu nói của người khác, điều đó vừa không thực tế vừa không thể xảy ra
 
+Mấy năm qua, tôi gặp rất nhiều người bàn luận với mình về tình cảm hôn nhân, nhưng tôi vẫn giữ vững một nguyên tắc : Dù cuộc sống của đối phương có thế nào thì chỉ cần cô ấy không than phiền, không xin tôi giúp đỡ, tôi sẽ không ==tùy ý== đánh giá cuộc sống của cô ấy, dù hôn nhân của cô ấy khủng hoảng tới mức nào, chồng cô ấy có quá đáng đến đâu, nếu không chịu từ bỏ thì đương nhiên cô ấy có ==lí do== riêng của mình. Tôi cũng không phải người trong cuộc rất nhiều chuyện tôi không hiểu rõ. Tôi không có tư cách cũng không cần quan tâm đến nó. Trừ khi cố ấy cần ==ý kiến== của tôi, tôi mới phát biểu quan điểm, dù vậy tôi cũng luôn phải nhắc bản thân phải khách quan, cố gắng loại bỏ sự yêu ghét đầy chủ quan.
+## Cuộc sống của tôi và bạn không giống nhau nên đừng làm phiền ai.
+
+Con người ấy mà, mỗi người đều có ==tư tưởng== riêng, mỗi người có một hạnh phúc riêng, đừng ai làm phiền ai
