@@ -1,5 +1,5 @@
 ---
-{"TARGET DECK":"Book_Cloze","dg-publish":true,"permalink":"/Book_ Reading 2024/Bạn đắt giá bao nhiêu/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-04T12:49:11.841+07:00","updated":"2024-03-05T09:24:28.711+07:00"}
+{"quickshare-date":"2024-03-19 16:49:16","quickshare-url":"https://noteshare.space/note/clty70j6x2556301mwkyruswab#CBC62FevLMpb0mO3BOcfpVaCxU1Tao9EaKt1UETX80A","TARGET DECK":"Book_Cloze","dg-publish":true,"telegraph_page_url":"https://telegra.ph/Bạn-đắt-giá-bao-nhiêu-03-19","telegraph_page_path":"Bạn-đắt-giá-bao-nhiêu-03-19","permalink":"/Book_ Reading 2024/Bạn đắt giá bao nhiêu/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-04T12:49:11.841+07:00","updated":"2024-03-19T16:49:16.865+07:00"}
 ---
 
 ## Sự thỏa hiệp có làm bạn hạnh phúc
@@ -27,3 +27,13 @@ Mấy năm qua, tôi gặp rất nhiều người bàn luận với mình về t
 ## Cuộc sống của tôi và bạn không giống nhau nên đừng làm phiền ai.
 
 Con người ấy mà, mỗi người đều có ==tư tưởng== riêng, mỗi người có một hạnh phúc riêng, đừng ai làm phiền ai
+
+## Cô gái à đừng hiểu nhầm ý nghĩa của từ độc lập
+Bây giờ, tôi hiểu độc lập chính là có ==năng lực== lựa chọn cuộc sống mà mình mong muốn, có ==dũng khí== nói không với những thứ mình không muốn! Chứ không phải hoàn toàn không dựa dẫm vào đàn ông.
+
+
+Đương nhiên, độc lập không nhất thiết là phải khiêu chiến lẽ đời để rồi trở thành một người cô độc.
+
+Độc lập là biết lựa chọn, đủ khả năng gánh vác kết quả sự lựa chọn của mình mà không giao phó cuộc đời cho người khác, độc lập không có nghĩa là phải hùng hổ nganh ngạnh, tách rời bản thân khỏi người khác. 
+Sự độc lập mà chúng ta theo đuổi hẳn là một kiểu tự do của tâm hồn, làm chuyện mình thích trong khoảng thời gian mình muốn, không cần chờ đợi sự cho phép của ai cả.
+
