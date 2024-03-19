@@ -1,5 +1,5 @@
 ---
-{"aliases":"khoảng cách đầu báo","tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Tiêu chuẩn TCVN 5738-2021/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:37.223+07:00","updated":"2024-01-19T10:00:38.000+07:00"}
+{"aliases":"khoảng cách đầu báo","tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Tiêu chuẩn TCVN 5738-2021/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:37.223+07:00","updated":"2024-03-13T10:53:07.401+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -12,7 +12,7 @@ Tags:
 
 #TCVN5738 
 #TCVN 
-#FA #smokedetector  #khoangcachdaubao
+#ELV/FA #smokedetector  #khoangcachdaubao
 # Quy định lắp báo cháy khói kiểu điểm
 ![](https://i.imgur.com/5kx5uNa.png)
 # Quy định lắp đặt đầu báo cháy nhiệt kiểu điểm
