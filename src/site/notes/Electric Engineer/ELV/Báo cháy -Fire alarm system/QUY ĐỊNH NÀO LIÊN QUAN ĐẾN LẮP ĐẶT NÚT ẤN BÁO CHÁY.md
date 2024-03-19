@@ -1,11 +1,11 @@
 ---
-{"aliases":["nút ấn báo cháy"],"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/QUY ĐỊNH NÀO LIÊN QUAN ĐẾN LẮP ĐẶT NÚT ẤN BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:33.212+07:00","updated":"2024-01-19T15:28:33.000+07:00"}
+{"aliases":["nút ấn báo cháy"],"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/QUY ĐỊNH NÀO LIÊN QUAN ĐẾN LẮP ĐẶT NÚT ẤN BÁO CHÁY/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:33.212+07:00","updated":"2024-03-13T10:53:07.173+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
 
 Source : 
-Tags: #nutan #manualcallpoint #FA #nutanbaochay
+Tags: #nutan #manualcallpoint #ELV/FA #nutanbaochay
 
 
 ---
