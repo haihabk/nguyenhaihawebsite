@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=QuUet3c_VYg&list=PLJ0kV3BxDBJtqEpykCjcKxiT5Sd_iXavv&index=9","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 7 Hướng Dẫn Đọc Bản Vẽ Báo Cháy Chung Cư  Sugar MEPF/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:37.251+07:00","updated":"2024-02-01T16:10:32.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":"https://www.youtube.com/watch?v=QuUet3c_VYg&list=PLJ0kV3BxDBJtqEpykCjcKxiT5Sd_iXavv&index=9","Author":null,"dg-publish":true,"image":null,"permalink":"/Electric Engineer/ELV/Báo cháy -Fire alarm system/Bài 7 Hướng Dẫn Đọc Bản Vẽ Báo Cháy Chung Cư  Sugar MEPF/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:37.251+07:00","updated":"2024-03-12T17:22:18.337+07:00"}
 ---
 
 **[[Homepage\|Quay Lại👈]]**
@@ -9,7 +9,7 @@ source :https://www.youtube.com/watch?v=QuUet3c_VYg&list=PLJ0kV3BxDBJtqEpykCjcKx
 
 ---
 
-## 1. Module điều khiển :
+## 1. [[Module điều khiển - CM\|Module điều khiển - CM]] :
 - Làm chức năng giao tiếp điều khiển.
 - Tín hiệu sẽ được phát đi
 ![](https://i.imgur.com/sskmDKB.png)
@@ -46,10 +46,10 @@ Khi xảy ra cháy thì tất cả các van ở các tầng sẽ đóng lại, c
 - Khi có sự cố cháy, công tắc dòng chảy sẽ phát tín hiệu đến bảng điều khiển PCCC để kích hoạt các thiết bị báo động và cảnh báo.
 - Công tắc dòng chảy có thể được lắp đặt ở các vị trí khác nhau trong hệ thống PCCC, tùy thuộc vào loại đường ống, áp suất nước và yêu cầu kỹ thuật.
 - Công tắc dòng chảy cần được kiểm tra và bảo trì định kỳ để đảm bảo hoạt động an toàn, hiệu quả.
-## PAF ::   Quạt tăng áp thang bộ
+## PAF-   Quạt tăng áp thang bộ
 - Thang bộ cần tạo áp dương mục đích để không khi bên ngoài không bị xâm nhập vào bên trong. giúp người thoát hiểm.
 - Để tạo áp dương cần có một quạt thổi không khí vào bên trong
-<!--ID: 1706778631782-->
+
 
 ## LIFT : KẾ NỐI VỚI THANG MÁY :
 Khi có cháy tất cả các thang sẽ được gọi về tầng 1- chỉ có thang máy chữa cháy là hoạt động
@@ -66,7 +66,7 @@ Khi có cháy tất cả các thang sẽ được gọi về tầng 1- chỉ có
 ![](https://i.imgur.com/r0VAGao.png)
 
 
-Modul CZM : trong thiết kế này đang đặt ==tất cả== tại trục điện -> Quản lý tập trung- Dễ khắc phục sự cố
+Module [[Electric Engineer/ELV/Báo cháy -Fire alarm system/CZM\|CZM]] : trong thiết kế này đang đặt ==tất cả== tại trục điện -> Quản lý tập trung- Dễ khắc phục sự cố
 ![](https://i.imgur.com/t5xzFtS.png)
 
 ![](https://i.imgur.com/fngaheI.png)
